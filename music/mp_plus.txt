@@ -1,0 +1,129 @@
+﻿##### MOOD
+
+soundtrack_01 = {
+	music = "file:/music/soundtracks/19th_century_villain.mp3"
+	name = "19th_century_villain"
+	pause_factor = 10
+	mood = no
+	can_be_interrupted = yes
+}
+
+soundtrack_02 = {
+	music = "file:/music/soundtracks/Beethovens_5th_Symphony.mp3"
+	name = "Beethovens_5th_Symphony"
+	pause_factor = 10
+	mood = no
+	can_be_interrupted = yes
+}
+
+soundtrack_03 = {
+	music = "file:/music/soundtracks/Brahms_Symphony_no4.mp3"
+	name = "Brahms_Symphony_no4"
+	pause_factor = 10
+	mood = no
+	can_be_interrupted = yes
+}
+
+soundtrack_04 = {
+	music = "file:/music/soundtracks/Diamond_City_Radio.mp3"
+	name = "Diamond_City_Radio"
+	pause_factor = 10
+	mood = no
+	can_be_interrupted = yes
+}
+
+soundtrack_05 = {
+	music = "file:/music/soundtracks/Elder_Scrolls_Morrowind.mp3"
+	name = "Elder_Scrolls_Morrowind"
+	pause_factor = 10
+	mood = no
+	can_be_interrupted = yes
+}
+
+soundtrack_06 = {
+	music = "file:/music/soundtracks/Galaxy_News_Radio.mp3"
+	name = "Galaxy_News_Radio"
+	pause_factor = 10
+	mood = no
+	can_be_interrupted = yes
+}
+
+soundtrack_07 = {
+	music = "file:/music/soundtracks/Lord_Of_The_Rings.mp3"
+	name = "Lord_Of_The_Rings"
+	pause_factor = 10
+	mood = no
+	can_be_interrupted = yes
+}
+
+soundtrack_08 = {
+	music = "file:/music/soundtracks/Oblivion_OST.mp3"
+	name = "Oblivion_OST"
+	pause_factor = 10
+	mood = no
+	can_be_interrupted = yes
+}
+
+soundtrack_09 = {
+	music = "file:/music/soundtracks/Tchaikovsky_Swan_Lake.mp3"
+	name = "Tchaikovsky_Swan_Lake"
+	pause_factor = 10
+	mood = no
+	can_be_interrupted = yes
+}
+
+soundtrack_10 = {
+	music = "file:/music/soundtracks/Four_Seasons_Vivaldi.mp3"
+	name = "Four_Seasons_Vivaldi"
+	pause_factor = 10
+	mood = no
+	can_be_interrupted = yes
+}
+
+soundtrack_11 = {
+	music = "file:/music/soundtracks/Arensky_Piano_Concerto.mp3"
+	name = "Arensky_Piano_Concerto"
+	pause_factor = 10
+	mood = no
+	can_be_interrupted = yes
+}
+
+soundtrack_12 = {
+	music = "file:/music/soundtracks/Elmas_Piano_Concerto.mp3"
+	name = "Elmas_Piano_Concerto"
+	pause_factor = 10
+	mood = no
+	can_be_interrupted = yes
+}
+
+soundtrack_13 = {
+	music = "file:/music/soundtracks/Louis_Glass_No3.mp3"
+	name = "Louis_Glass_No3"
+	pause_factor = 10
+	mood = no
+	can_be_interrupted = yes
+}
+
+soundtrack_14 = {
+	music = "file:/music/soundtracks/New_World_Symphony.mp3"
+	name = "New_World_Symphony"
+	pause_factor = 10
+	mood = no
+	can_be_interrupted = yes
+}
+
+soundtrack_15 = {
+	music = "file:/music/soundtracks/Schubert_No4.mp3"
+	name = "Schubert_No4"
+	pause_factor = 10
+	mood = no
+	can_be_interrupted = yes
+}
+
+soundtrack_16 = {
+	music = "file:/music/soundtracks/Souvenir_de_Florence.mp3"
+	name = "Souvenir_de_Florence"
+	pause_factor = 10
+	mood = no
+	can_be_interrupted = yes
+}

@@ -1,0 +1,218 @@
+﻿
+track997 = {
+	name = "track997_name"
+	music = "file:/music/dementive_egypt_music/ancient_hymn.mp3"
+	pause_factor = 50
+	mood = yes
+	can_be_interrupted = yes
+}
+track998 = {
+	name = "track998_name"
+	music = "file:/music/dementive_egypt_music/apricot_mountain.mp3"
+	pause_factor = 50
+	mood = yes
+	can_be_interrupted = yes
+}
+track999 = {
+	name = "track999_name"
+	music = "file:/music/dementive_egypt_music/arabic_summer.mp3"
+	pause_factor = 50
+	mood = yes
+	can_be_interrupted = yes
+}
+track19 = {
+	name = "track19_name"
+	music = "file:/music/dementive_egypt_music/autumn.mp3"
+	pause_factor = 50
+	mood = yes
+	can_be_interrupted = yes
+}
+track20 = {
+	name = "track20_name"
+	music = "file:/music/dementive_egypt_music/beloved_of_maat.mp3"
+	pause_factor = 50
+	mood = yes
+	can_be_interrupted = yes
+}
+track21 = {
+	name = "track21_name"
+	music = "file:/music/dementive_egypt_music/cleopatra.wav"
+	pause_factor = 50
+	mood = yes
+	can_be_interrupted = yes
+}
+track22 = {
+	name = "track22_name"
+	music = "file:/music/dementive_egypt_music/cursed_by_beauty.mp3"
+	pause_factor = 50
+	mood = yes
+	can_be_interrupted = yes
+}
+track23 = {
+	name = "track23_name"
+	music = "file:/music/dementive_egypt_music/book_of_gates.mp3"
+	pause_factor = 50
+	mood = yes
+	can_be_interrupted = yes
+}
+track24 = {
+	name = "track24_name"
+	music = "file:/music/dementive_egypt_music/eastern_path.mp3"
+	pause_factor = 50
+	mood = yes
+	can_be_interrupted = yes
+}
+track25 = {
+	name = "track25_name"
+	music = "file:/music/dementive_egypt_music/weighing_of_the_heart.mp3"
+	pause_factor = 50
+	mood = yes
+	can_be_interrupted = yes
+}
+track26 = {
+	name = "track26_name"
+	music = "file:/music/dementive_egypt_music/festival_dance.mp3"
+	pause_factor = 50
+	mood = yes
+	can_be_interrupted = yes
+}
+track27 = {
+	name = "track27_name"
+	music = "file:/music/dementive_egypt_music/harvest_dawn.mp3"
+	pause_factor = 50
+	mood = yes
+	can_be_interrupted = yes
+}
+track28 = {
+	name = "track28_name"
+	music = "file:/music/dementive_egypt_music/harvest_festival.ogg"
+	pause_factor = 50
+	mood = yes
+	can_be_interrupted = yes
+}
+track29 = {
+	name = "track29_name"
+	music = "file:/music/dementive_egypt_music/hour_one.mp3"
+	pause_factor = 50
+	mood = yes
+	can_be_interrupted = yes
+}
+track30 = {
+	name = "track30_name"
+	music = "file:/music/dementive_egypt_music/intro_carthage.mp3"
+	pause_factor = 50
+	mood = yes
+	can_be_interrupted = yes
+}
+track31 = {
+	name = "track31_name"
+	music = "file:/music/dementive_egypt_music/journey_down_the_nile.mp3"
+	pause_factor = 50
+	mood = yes
+	can_be_interrupted = yes
+}
+track32 = {
+	name = "track32_name"
+	music = "file:/music/dementive_egypt_music/land_of_two_fields.mp3"
+	pause_factor = 50
+	mood = yes
+	can_be_interrupted = yes
+}
+track33 = {
+	name = "track33_name"
+	music = "file:/music/dementive_egypt_music/lonely_strategos.mp3"
+	pause_factor = 50
+	mood = yes
+	can_be_interrupted = yes
+}
+track34 = {
+	name = "track34_name"
+	music = "file:/music/dementive_egypt_music/memories_of_thebes.mp3"
+	pause_factor = 50
+	mood = yes
+	can_be_interrupted = yes
+}
+track35 = {
+	name = "track35_name"
+	music = "file:/music/dementive_egypt_music/sacred_lake_of_gazaka.mp3"
+	pause_factor = 50
+	mood = yes
+	can_be_interrupted = yes
+}
+track36 = {
+	name = "track36_name"
+	music = "file:/music/dementive_egypt_music/silk_road.wav"
+	pause_factor = 50
+	mood = yes
+	can_be_interrupted = yes
+}
+track37 = {
+	name = "track37_name"
+	music = "file:/music/dementive_egypt_music/spell_of_anahita.mp3"
+	pause_factor = 50
+	mood = yes
+	can_be_interrupted = yes
+}
+track38 = {
+	name = "track38_name"
+	music = "file:/music/dementive_egypt_music/springs_of_armenia.mp3"
+	pause_factor = 50
+	mood = yes
+	can_be_interrupted = yes
+}
+track39 = {
+	name = "track39_name"
+	music = "file:/music/dementive_egypt_music/sunderred_hills.mp3"
+	pause_factor = 50
+	mood = yes
+	can_be_interrupted = yes
+}
+track40 = {
+	name = "track40_name"
+	music = "file:/music/dementive_egypt_music/the_field_of_reeds.mp3"
+	pause_factor = 50
+	mood = yes
+	can_be_interrupted = yes
+}
+track41 = {
+	name = "track41_name"
+	music = "file:/music/dementive_egypt_music/egyptian_theme.mp3"
+	pause_factor = 50
+	mood = no
+	can_be_interrupted = yes
+}
+track42 = {
+	name = "track42_name"
+	music = "file:/music/dementive_egypt_music/the_pyramid_texts.mp3"
+	pause_factor = 50
+	mood = yes
+	can_be_interrupted = yes
+}
+track43 = {
+	name = "track43_name"
+	music = "file:/music/dementive_egypt_music/to_zucchabar.flac"
+	pause_factor = 50
+	mood = yes
+	can_be_interrupted = yes
+}
+track44 = {
+	name = "track44_name"
+	music = "file:/music/dementive_egypt_music/valley_of_the_nile.ogg"
+	pause_factor = 50
+	mood = yes
+	can_be_interrupted = yes
+}
+track45 = {
+	name = "track45_name"
+	music = "file:/music/dementive_egypt_music/intro_egyptian.mp3"
+	pause_factor = 50
+	mood = yes
+	can_be_interrupted = yes
+}
+track46 = {
+	name = "track46_name"
+	music = "file:/music/dementive_egypt_music/opening_of_the_mouth.mp3"
+	pause_factor = 50
+	mood = yes
+	can_be_interrupted = yes
+}

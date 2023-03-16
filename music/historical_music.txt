@@ -1,0 +1,457 @@
+﻿##### MOOD
+
+historical_HAB_01 = {
+	name = "historical_HAB_01_name"
+	music = "file:/music/Austria - 1. Gott erhalte Franz den Kaiser.mp3"
+	pause_factor = 0
+	mood = yes
+	can_be_interrupted = no
+}
+
+historical_HAB_02 = {
+	name = "historical_HAB_02_name"
+	music = "file:/music/Austria - 2. Vaterländischer Marsch.mp3"
+	pause_factor = 0
+	mood = yes
+	can_be_interrupted = no
+}
+
+historical_HAB_03 = {
+	name = "historical_HAB_03_name"
+	music = "file:/music/Austria - 3. Unter dem Doppeladler.mp3"
+	pause_factor = 0
+	mood = yes
+	can_be_interrupted = no
+}
+
+historical_HAB_04 = {
+	name = "historical_HAB_04_name"
+	music = "file:/music/Austria - 4. Wir ziehen über die Straßen.mp3"
+	pause_factor = 0
+	mood = yes
+	can_be_interrupted = no
+}
+
+historical_HAB_05 = {
+	name = "historical_HAB_05_name"
+	music = "file:/music/Austria - 5. Radetzky-Marsch.mp3"
+	pause_factor = 0
+	mood = yes
+	can_be_interrupted = no
+}
+
+historical_HAB_06 = {
+	name = "historical_HAB_06_name"
+	music = "file:/music/Austria - 6. Erzherzog-Albrecht-Marsch.mp3"
+	pause_factor = 0
+	mood = yes
+	can_be_interrupted = no
+}
+
+historical_HAB_07 = {
+	name = "historical_HAB_07_name"
+	music = "file:/music/Austria - 7. Hyden Emperor Quartet, 2nd movement.mp3"
+	pause_factor = 0
+	mood = yes
+	can_be_interrupted = no
+}
+
+historical_HAB_08 = {
+	name = "historical_HAB_08_name"
+	music = "file:/music/Austria - 8. Kärntner Liedermarsch.mp3"
+	pause_factor = 0
+	mood = yes
+	can_be_interrupted = no
+}
+
+historical_FRA_01 = {
+	name = "historical_FRA_01_name"
+	music = "file:/music/France - 1. Chanson de l'Oignon.mp3"
+	pause_factor = 0
+	mood = yes
+	can_be_interrupted = no
+}
+
+historical_FRA_02 = {
+	name = "historical_FRA_02_name"
+	music = "file:/music/France - 2. L'Internationale.mp3"
+	pause_factor = 0
+	mood = yes
+	can_be_interrupted = no
+}
+
+historical_FRA_03 = {
+	name = "historical_FRA_03_name"
+	music = "file:/music/France - 3. L'Internationale Noire.mp3"
+	pause_factor = 0
+	mood = yes
+	can_be_interrupted = no
+}
+
+historical_FRA_04 = {
+	name = "historical_FRA_04_name"
+	music = "file:/music/France - 4. La Marseillaise.mp3"
+	pause_factor = 0
+	mood = yes
+	can_be_interrupted = no
+}
+
+historical_GER_01 = {
+	name = "historical_GER_01_name"
+	music = "file:/music/Germany - 1. Die Wacht am Rhein.mp3"
+	pause_factor = 0
+	mood = yes
+	can_be_interrupted = no
+}
+
+historical_GER_02 = {
+	name = "historical_GER_02_name"
+	music = "file:/music/Germany - 2. Heil dir im Siegerkranz.mp3"
+	pause_factor = 0
+	mood = yes
+	can_be_interrupted = no
+}
+
+historical_GER_03 = {
+	name = "historical_GER_03_name"
+	music = "file:/music/Germany - 3. Schwarzbraun ist die Haselnuss.mp3"
+	pause_factor = 0
+	mood = yes
+	can_be_interrupted = no
+}
+
+historical_GER_04 = {
+	name = "historical_GER_04_name"
+	music = "file:/music/Germany - 4. Fridericus Rex Grenadiermarsch.mp3"
+	pause_factor = 0
+	mood = yes
+	can_be_interrupted = no
+}
+
+historical_GER_05 = {
+	name = "historical_GER_05_name"
+	music = "file:/music/Germany - 5. Hohenfriedberger Marsch.mp3"
+	pause_factor = 0
+	mood = yes
+	can_be_interrupted = no
+}
+
+historical_GER_06 = {
+	name = "historical_GER_06_name"
+	music = "file:/music/Germany - 6. Siegesmarsch von Metz.mp3"
+	pause_factor = 0
+	mood = yes
+	can_be_interrupted = no
+}
+
+historical_GER_07 = {
+	name = "historical_GER_07_name"
+	music = "file:/music/Germany - 7. Ich hab die Nacht geträumet.mp3"
+	pause_factor = 0
+	mood = yes
+	can_be_interrupted = no
+}
+
+historical_GER_08 = {
+	name = "historical_GER_08_name"
+	music = "file:/music/Germany - 8. Die Wacht am Rhein Marsch.mp3"
+	pause_factor = 0
+	mood = yes
+	can_be_interrupted = no
+}
+
+historical_GER_09 = {
+	name = "historical_GER_09_name"
+	music = "file:/music/Germany - 9. Badenweiler-Marsch.mp3"
+	pause_factor = 0
+	mood = yes
+	can_be_interrupted = no
+}
+
+historical_GER_10 = {
+	name = "historical_GER_10_name"
+	music = "file:/music/Germany - 10. Das Engelandlied.mp3"
+	pause_factor = 0
+	mood = yes
+	can_be_interrupted = no
+}
+
+historical_ITA_01 = {
+	name = "historical_ITA_01_name"
+	music = "file:/music/Italy - 1. Funiculi Funicula.mp3"
+	pause_factor = 0
+	mood = yes
+	can_be_interrupted = no
+}
+
+historical_ITA_02 = {
+	name = "historical_ITA_02_name"
+	music = "file:/music/Italy - 2. Canto Degli Arditi.mp3"
+	pause_factor = 0
+	mood = yes
+	can_be_interrupted = no
+}
+
+historical_JAP_01 = {
+	name = "historical_JAP_01_name"
+	music = "file:/music/Japan - 1. Gunkan Koushinkyoku.mp3"
+	pause_factor = 0
+	mood = yes
+	can_be_interrupted = no
+}
+
+historical_JAP_02 = {
+	name = "historical_JAP_02_name"
+	music = "file:/music/Japan - 2. Yuki no Shingun.mp3"
+	pause_factor = 0
+	mood = yes
+	can_be_interrupted = no
+}
+
+historical_JAP_03 = {
+	name = "historical_JAP_03_name"
+	music = "file:/music/Japan - 3. Battoutai.mp3"
+	pause_factor = 0
+	mood = yes
+	can_be_interrupted = no
+}
+
+historical_JAP_04 = {
+	name = "historical_JAP_04_name"
+	music = "file:/music/Japan - 4. Rikigun Bunretsu Kyoushinkyoku.mp3"
+	pause_factor = 0
+	mood = yes
+	can_be_interrupted = no
+}
+
+historical_JAP_05 = {
+	name = "historical_JAP_05_name"
+	music = "file:/music/Japan - 5. Doshisha College Song.mp3"
+	pause_factor = 0
+	mood = yes
+	can_be_interrupted = no
+}
+
+historical_RUS_01 = {
+	name = "historical_RUS_01_name"
+	music = "file:/music/Russia - 1. Kalinka.mp3"
+	pause_factor = 0
+	mood = yes
+	can_be_interrupted = no
+}
+
+historical_RUS_02 = {
+	name = "historical_RUS_02_name"
+	music = "file:/music/Russia - 2. Farewell of Slavianka.mp3"
+	pause_factor = 0
+	mood = yes
+	can_be_interrupted = no
+}
+
+historical_SPA_01 = {
+	name = "historical_SPA_01_name"
+	music = "file:/music/Spain - 1. Amapola.mp3"
+	pause_factor = 0
+	mood = yes
+	can_be_interrupted = no
+}
+
+historical_SWE_01 = {
+	name = "historical_SWE_01_name"
+	music = "file:/music/Sweden - 1. Finska rytteriets marsch.mp3"
+	pause_factor = 0
+	mood = yes
+	can_be_interrupted = no
+}
+
+historical_UK_01 = {
+	name = "historical_UK_01_name"
+	music = "file:/music/UK - 1. Coronation.mp3"
+	pause_factor = 0
+	mood = yes
+	can_be_interrupted = no
+}
+
+historical_UK_02 = {
+	name = "historical_UK_02_name"
+	music = "file:/music/UK - 2. I Vow to Thee, My Country.mp3"
+	pause_factor = 0
+	mood = yes
+	can_be_interrupted = no
+}
+
+historical_UK_03 = {
+	name = "historical_UK_03_name"
+	music = "file:/music/UK - 3. Land of Hope and Glory.mp3"
+	pause_factor = 0
+	mood = yes
+	can_be_interrupted = no
+}
+
+historical_UK_04 = {
+	name = "historical_UK_04_name"
+	music = "file:/music/UK - 4. Medley It's a Long Way to Tipperary  Pack up Your Troubles in Your Old Kit Bag.mp3"
+	pause_factor = 0
+	mood = yes
+	can_be_interrupted = no
+}
+
+historical_UK_05 = {
+	name = "historical_UK_05_name"
+	music = "file:/music/UK - 5. Women of Ireland.mp3"
+	pause_factor = 0
+	mood = yes
+	can_be_interrupted = no
+}
+
+historical_UK_06 = {
+	name = "historical_UK_06_name"
+	music = "file:/music/UK - 6. British Grenadiers.mp3"
+	pause_factor = 0
+	mood = yes
+	can_be_interrupted = no
+}
+
+historical_UK_07 = {
+	name = "historical_UK_07_name"
+	music = "file:/music/UK - 7. Fantasia on Greensleeves.mp3"
+	pause_factor = 0
+	mood = yes
+	can_be_interrupted = no
+}
+
+historical_UK_08 = {
+	name = "historical_UK_08_name"
+	music = "file:/music/UK - 8. Mrs Winslow's Soothing Syrup Adagio cantabile.mp3"
+	pause_factor = 0
+	mood = yes
+	can_be_interrupted = no
+}
+
+historical_UK_09 = {
+	name = "historical_UK_09_name"
+	music = "file:/music/UK - 9. Scotland the Brave; Bonnie Dundee.mp3"
+	pause_factor = 0
+	mood = yes
+	can_be_interrupted = no
+}
+
+historical_US_01 = {
+	name = "historical_US_01_name"
+	music = "file:/music/USA - 1. Dixie's Land.mp3"
+	pause_factor = 0
+	mood = yes
+	can_be_interrupted = no
+}
+
+historical_US_02 = {
+	name = "historical_US_02_name"
+	music = "file:/music/USA - 2. Union Dixie.mp3"
+	pause_factor = 0
+	mood = yes
+	can_be_interrupted = no
+}
+
+historical_US_03 = {
+	name = "historical_US_03_name"
+	music = "file:/music/USA - 3. The Battle Cry of Freedom.mp3"
+	pause_factor = 0
+	mood = yes
+	can_be_interrupted = no
+}
+
+historical_US_04 = {
+	name = "historical_US_04_name"
+	music = "file:/music/USA - 4. Yankee Doodle.mp3"
+	pause_factor = 0
+	mood = yes
+	can_be_interrupted = no
+}
+
+historical_US_05 = {
+	name = "historical_US_05_name"
+	music = "file:/music/USA - 5. ohimagoodolrebel.mp3"
+	pause_factor = 0
+	mood = yes
+	can_be_interrupted = no
+}
+
+historical_US_06 = {
+	name = "historical_US_06_name"
+	music = "file:/music/USA - 6. marchingthroughgeorgia.mp3"
+	pause_factor = 0
+	mood = yes
+	can_be_interrupted = no
+}
+
+historical_US_07 = {
+	name = "historical_US_07_name"
+	music = "file:/music/USA - 7. jonnycomesmarchinghome.mp3"
+	pause_factor = 0
+	mood = yes
+	can_be_interrupted = no
+}
+
+historical_US_08 = {
+	name = "historical_US_08_name"
+	music = "file:/music/USA - 8. battlehymnoftherepublic.mp3"
+	pause_factor = 0
+	mood = yes
+	can_be_interrupted = no
+}
+
+historical_US_09 = {
+	name = "historical_US_09_name"
+	music = "file:/music/USA - 9. Hard Times Come Again No More.mp3"
+	pause_factor = 0
+	mood = yes
+	can_be_interrupted = no
+}
+
+historical_US_10 = {
+	name = "historical_US_10_name"
+	music = "file:/music/USA - 10. Marching Along.mp3"
+	pause_factor = 0
+	mood = yes
+	can_be_interrupted = no
+}
+
+historical_Others_01 = {
+	name = "historical_Others_01_name"
+	music = "file:/music/Others - 1. SymphNo.9FrTheNewWorld.mp3"
+	pause_factor = 0
+	mood = yes
+	can_be_interrupted = no
+}
+
+historical_Others_02 = {
+	name = "historical_Others_02_name"
+	music = "file:/music/Others - 2. lamentforthequeen_bonustrack.mp3"
+	pause_factor = 0
+	mood = yes
+	can_be_interrupted = no
+}
+
+historical_Others_03 = {
+	name = "historical_Others_03_name"
+	music = "file:/music/Others - 3. Verdi Triumphal March from Aida.mp3"
+	pause_factor = 0
+	mood = yes
+	can_be_interrupted = no
+}
+
+historical_Others_04 = {
+	name = "historical_Others_04_name"
+	music = "file:/music/Others - 4. PDX-mas Carol.mp3"
+	pause_factor = 0
+	mood = no
+	can_be_interrupted = no
+}
+
+historical_Others_05 = {
+	name = "historical_Others_05_name"
+	music = "file:/music/Others - 5. Bizet Carmen - Overture.mp3"
+	pause_factor = 0
+	mood = yes
+	can_be_interrupted = no
+}

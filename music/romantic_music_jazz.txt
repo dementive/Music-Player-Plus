@@ -1,0 +1,55 @@
+﻿##### JAZZ
+
+
+# The following music was used for this media project:
+# Music: The Entertainer by Kevin MacLeod
+# Free download: https://filmmusic.io/song/5765-the-entertainer
+# License (CC BY 4.0): https://filmmusic.io/standard-license
+# Artist website: https://incompetech.com
+
+mx_mood_jazz_01 = {
+	name = "mx_mood_jazz_01_name"
+	music = "file:/music/romantic_music_jazz/the-entertainer-by-kevin-macleod-from-filmmusic-io.mp3"
+	pause_factor = 50
+	mood = yes
+	can_be_interrupted = yes
+	is_valid = {
+		romantic_music_jazz_music_trigger = yes
+	}
+}
+
+
+# The following music was used for this media project:
+# Music: In Your Arms by Kevin MacLeod
+# Free download: https://filmmusic.io/song/3906-in-your-arms
+# License (CC BY 4.0): https://filmmusic.io/standard-license
+# Artist website: https://incompetech.com
+
+mx_mood_jazz_02 = {
+	name = "mx_mood_jazz_02_name"
+	music = "file:/music/romantic_music_jazz/in-your-arms-by-kevin-macleod-from-filmmusic-io.mp3"
+	pause_factor = 50
+	mood = yes
+	can_be_interrupted = yes
+	is_valid = {
+		romantic_music_jazz_music_trigger = yes
+	}
+}
+
+
+# The following music was used for this media project:
+# Music: Onion Capers by Kevin MacLeod
+# Free download: https://filmmusic.io/song/4679-onion-capers
+# License (CC BY 4.0): https://filmmusic.io/standard-license
+# Artist website: https://incompetech.com
+
+mx_mood_jazz_03 = {
+	name = "mx_mood_jazz_03_name"
+	music = "file:/music/romantic_music_jazz/onion-capers-by-kevin-macleod-from-filmmusic-io.mp3"
+	pause_factor = 50
+	mood = yes
+	can_be_interrupted = yes
+	is_valid = {
+		romantic_music_jazz_music_trigger = yes
+	}
+}

@@ -1,0 +1,249 @@
+﻿##### ROMANTIC
+
+#### WARTIME
+
+### COMMON
+
+
+# Wolfgang Amadeus Mozart: Piano Sonata No. 11 (Turkish March)
+# ヴォルフガング・アマデウス・モーツァルト：ピアノソナタ第11番 第3楽章「トルコ行進曲」
+
+mx_mood_Mozart_1783 = {
+	name = "mx_mood_Mozart_1783_name"
+	music = "file:/music/romantic_music_classical/Mozart/Mozart-PianoSonataNo11-3rd.mp3"
+	pause_factor = 50
+	mood = yes
+	can_be_interrupted = yes
+	is_valid = {
+		romantic_music_wartime_common_claasical_music_trigger = { FROM = 1783 TO = 1848 }
+	}
+}
+
+
+# Ludwig van Beethoven: The Ruins of Athens (Turkish March)
+# ルートヴィヒ・ヴァン・ベートーヴェン：「アテネの廃墟」より「トルコ行進曲」
+
+mx_mood_Beethoven_1812 = {
+	name = "mx_mood_Beethoven_1812_name"
+	music = "file:/music/romantic_music_classical/Beethoven/Beethoven-Turkish-March.mp3"
+	pause_factor = 50
+	mood = yes
+	can_be_interrupted = yes
+	is_valid = {
+		romantic_music_wartime_common_claasical_music_trigger = { FROM = 1812 TO = 1848 }
+	}
+}
+
+
+# Franz Schubert: Three Marches Militaires
+# フランツ・シューベルト：「軍隊行進曲」
+
+mx_mood_Schubert_1812 = {
+	name = "mx_mood_Schubert_1812_name"
+	music = "file:/music/romantic_music_classical/Schubert/Schubert-March-Military-No1.mp3"
+	pause_factor = 50
+	mood = yes
+	can_be_interrupted = yes
+	is_valid = {
+		romantic_music_wartime_common_claasical_music_trigger = { FROM = 1812 TO = 10000 }
+	}
+}
+
+
+# Richard Wagner: Tannhäuser (Grand March)
+# リヒャルト・ワーグナー：「タンホイザー」より「大行進曲」
+
+mx_mood_Wagner_1845_B = {
+	name = "mx_mood_Wagner_1845_B_name"
+	music = "file:/music/romantic_music_classical/Wagner/215-Wagner-Tannhauser-March.mp3"
+	pause_factor = 50
+	mood = yes
+	can_be_interrupted = yes
+	is_valid = {
+		romantic_music_wartime_common_claasical_music_trigger = { FROM = 1845 TO = 10000 }
+	}
+}
+
+
+# Hector Berlioz: La damnation de Faust (Hungarian March)
+# エクトル・ベルリオーズ：「ファウストの劫罰」より「ラコッツィ行進曲」
+
+mx_mood_Berlioz_1845 = {
+	name = "mx_mood_Berlioz_1845_name"
+	music = "file:/music/romantic_music_classical/Berlioz/159-Berlioz-Rakoczy-March.mp3"
+	pause_factor = 50
+	mood = yes
+	can_be_interrupted = yes
+	is_valid = {
+		romantic_music_wartime_common_claasical_music_trigger = { FROM = 1845 TO = 10000 }
+	}
+}
+
+
+# Johann Strauss I: Radetzky March
+# ヨハン・シュトラウス一世：「ラデツキー行進曲」
+
+mx_mood_Strauss1_1848 = {
+	name = "mx_mood_Strauss1_1848_name"
+	music = "file:/music/romantic_music_classical/Strauss1/JohannStraussI-Radetzky-Marsch-2019-AR.mp3"
+	pause_factor = 50
+	mood = yes
+	can_be_interrupted = yes
+	is_valid = {
+		romantic_music_wartime_common_claasical_music_trigger = { FROM = 1848 TO = 10000 }
+	}
+}
+
+
+# Giuseppe Verdi: Aida
+# ジュゼッペ・ヴェルディ：「アイーダ」より「凱旋行進曲」
+
+mx_mood_Verdi_1870 = {
+	name = "mx_mood_Verdi_1870_name"
+	music = "file:/music/romantic_music_classical/Verdi/Verdi-AIDA-GrandFinale-March.mp3"
+	pause_factor = 50
+	mood = yes
+	can_be_interrupted = yes
+	is_valid = {
+		romantic_music_wartime_common_claasical_music_trigger = { FROM = 1870 TO = 10000 }
+	}
+}
+
+
+# Edvard Grieg: In the Hall of the Mountain King
+# エドヴァルド・グリーグ：「山の魔王の宮殿にて」
+
+mx_mood_Grieg_1875 = {
+	name = "mx_mood_Grieg_1875_name"
+	music = "file:/music/romantic_music_classical/Grieg/Grieg-PeerGynt-Suite-MountainKing.mp3"
+	pause_factor = 50
+	mood = yes
+	can_be_interrupted = yes
+	is_valid = {
+		romantic_music_wartime_common_claasical_music_trigger = { FROM = 1875 TO = 10000 }
+	}
+}
+
+
+# John Philip Sousa: The Thunderer
+# ジョン・フィリップ・スーザ：「雷神」
+
+mx_mood_Sousa_1889_A = {
+	name = "mx_mood_Sousa_1889_A_name"
+	music = "file:/music/romantic_music_classical/Sousa/Sousa-The-Thunderer.mp3"
+	pause_factor = 50
+	mood = yes
+	can_be_interrupted = yes
+	is_valid = {
+		romantic_music_wartime_common_claasical_music_trigger = { FROM = 1889 TO = 10000 }
+	}
+}
+
+
+# John Philip Sousa: The Washington Post
+# ジョン・フィリップ・スーザ：「ワシントン・ポスト」
+
+mx_mood_Sousa_1889_B = {
+	name = "mx_mood_Sousa_1889_B_name"
+	music = "file:/music/romantic_music_classical/Sousa/Sousa-Washington-Post.mp3"
+	pause_factor = 50
+	mood = yes
+	can_be_interrupted = yes
+	is_valid = {
+		romantic_music_wartime_common_claasical_music_trigger = { FROM = 1889 TO = 10000 }
+	}
+}
+
+
+# Pyotr Ilyich Tchaikovsky: The Nutcracker (March)
+# ピョートル・チャイコフスキー：「くるみ割り人形」より「行進曲」
+
+mx_mood_Tchaikovsky_1892 = {
+	name = "mx_mood_Tchaikovsky_1892_name"
+	music = "file:/music/romantic_music_classical/Tchaikovsky/Tchaikovsky-TheNutcracker-March-2019-AR.mp3"
+	pause_factor = 50
+	mood = yes
+	can_be_interrupted = yes
+	is_valid = {
+		romantic_music_wartime_common_claasical_music_trigger = { FROM = 1892 TO = 10000 }
+	}
+}
+
+
+### COUNTRY-SPECIFIC
+
+# Carl Teike: Alte Kameraden
+# カール・タイケ：「旧友」
+
+mx_mood_Teike_1889 = {
+	name = "mx_mood_Teike_1889_name"
+	music = "file:/music/romantic_music_classical/Teike/059-Teike-Alte-Kameraden.mp3"
+	pause_factor = 50
+	mood = yes
+	can_be_interrupted = yes
+	is_valid = {
+		romantic_music_wartime_country_specific_claasical_music_trigger = { TAG = GER FROM = 1889 TO = 10000 }
+	}
+}
+
+
+# J. F. Wagner: Under the Double Eagle
+# ヨーゼフ・フランツ・ワーグナー：「双頭の鷲の旗の下に」
+
+mx_mood_JFWagner_1893 = {
+	name = "mx_mood_JFWagner_1893_name"
+	music = "file:/music/romantic_music_classical/JFWagner/J.F.Wagner-Under-the-Double-Eagle.mp3"
+	pause_factor = 50
+	mood = yes
+	can_be_interrupted = yes
+	is_valid = {
+		romantic_music_wartime_country_specific_claasical_music_trigger = { TAG = AUS FROM = 1893 TO = 10000 }
+	}
+}
+
+
+# John Philip Sousa: The Stars and Stripes Forever
+# ジョン・フィリップ・スーザ：「星条旗よ永遠なれ」
+
+mx_mood_Sousa_1896 = {
+	name = "mx_mood_Sousa_1896_name"
+	music = "file:/music/romantic_music_classical/Sousa/Sousa-Stars-and-Stripes-Forever.mp3"
+	pause_factor = 50
+	mood = yes
+	can_be_interrupted = yes
+	is_valid = {
+		romantic_music_wartime_country_specific_claasical_music_trigger = { TAG = USA FROM = 1896 TO = 10000 }
+	}
+}
+
+
+# Edward Elgar: Pomp and Circumstance Marches
+# エドワード・エルガー：「威風堂々」
+
+mx_mood_Elgar_1901 = {
+	name = "mx_mood_Elgar_1901_name"
+	music = "file:/music/romantic_music_classical/Elgar/Elgar-Pomp-and-Circumstance-March-No1-2019-AR.mp3"
+	pause_factor = 50
+	mood = yes
+	can_be_interrupted = yes
+	is_valid = {
+		romantic_music_wartime_country_specific_claasical_music_trigger = { TAG = GBR FROM = 1901 TO = 10000 }
+	}
+}
+
+
+### GREAT WAR
+
+# Giuseppe Verdi: Requiem (Dies irae)
+# ジュゼッペ・ヴェルディ：レクイエム「怒りの日」
+
+mx_mood_Verdi_1874 = {
+	name = "mx_mood_Verdi_1874_name"
+	music = "file:/music/romantic_music_classical/Verdi/Verdi-Requiem-Dies-Irae-2017-AR.mp3"
+	pause_factor = 50
+	mood = yes
+	can_be_interrupted = yes
+	is_valid = {
+		romantic_music_wartime_great_war_claasical_music_trigger = yes
+	}
+}

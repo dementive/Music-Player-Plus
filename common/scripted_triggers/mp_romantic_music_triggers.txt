@@ -1,0 +1,60 @@
+﻿romantic_music_peacetime_claasical_music_trigger = {
+	year >= $FROM$
+	year <  $TO$
+	romantic_music_wartime_trigger = no
+}
+
+
+romantic_music_wartime_common_claasical_music_trigger = {
+	year >= $FROM$
+	year <  $TO$
+	romantic_music_wartime_trigger = yes
+	romantic_music_great_war_trigger = no
+}
+
+
+romantic_music_wartime_country_specific_claasical_music_trigger = {
+	exists = c:$TAG$
+	THIS = c:$TAG$
+	year >= $FROM$
+	year <  $TO$
+	romantic_music_wartime_trigger = yes
+	romantic_music_great_war_trigger = no
+}
+
+
+romantic_music_wartime_great_war_claasical_music_trigger = {
+	romantic_music_wartime_trigger = yes
+	romantic_music_great_war_trigger = yes
+}
+
+
+romantic_music_jazz_music_trigger = {
+	has_technology_researched = radio
+	romantic_music_wartime_trigger = no
+}
+
+
+romantic_music_wartime_trigger = {
+	any_diplomatic_play = {
+		is_war = yes
+		any_scope_play_involved = {
+			THIS = ROOT
+		}
+	}
+}
+
+
+romantic_music_great_war_trigger = {
+	any_diplomatic_play = {
+		is_war = yes
+		any_scope_play_involved = {
+			THIS = ROOT
+		}
+		any_scope_play_involved = {
+			country_rank = rank_value:great_power
+			count >= 4
+		}
+	}
+	year >= 1874	# Giuseppe Verdi composed Requiem (Dies irae)
+}

@@ -1,0 +1,588 @@
+﻿##### ROMANTIC
+
+#### PEACETIME
+
+
+# Ludwig van Beethoven: Symphony No. 5
+# ルートヴィヒ・ヴァン・ベートーヴェン：交響曲第5番「運命」第1楽章
+
+mx_mood_Beethoven_1808 = {
+	name = "mx_mood_Beethoven_1808_name"
+	music = "file:/music/romantic_music_classical/Beethoven/Beethoven-Symphony-No5-1st-2019-AR2.mp3"
+	pause_factor = 50
+	mood = yes
+	can_be_interrupted = yes
+	is_valid = {
+		romantic_music_peacetime_claasical_music_trigger =  { FROM = 1808 TO = 1838 }
+	}
+}
+
+
+# Ludwig van Beethoven: Für Elise
+# ルートヴィヒ・ヴァン・ベートーヴェン：「エリーゼのために」
+
+mx_mood_Beethoven_1810 = {
+	name = "mx_mood_Beethoven_1810_name"
+	music = "file:/music/romantic_music_classical/Beethoven/Beethoven-FurElise.mp3"
+	pause_factor = 50
+	mood = yes
+	can_be_interrupted = yes
+	is_valid = {
+		romantic_music_peacetime_claasical_music_trigger =  { FROM = 1810 TO = 1840 }
+	}
+}
+
+
+# Franz Schubert: Erlkönig
+# フランツ・シューベルト：「魔王」
+
+mx_mood_Schubert_1815 = {
+	name = "mx_mood_Schubert_1815_name"
+	music = "file:/music/romantic_music_classical/Schubert/Schubert-Erlkonig.mp3"
+	pause_factor = 50
+	mood = yes
+	can_be_interrupted = yes
+	is_valid = {
+		romantic_music_peacetime_claasical_music_trigger =  { FROM = 1815 TO = 1845 }
+	}
+}
+
+
+# Gioachino Rossini: The Barber of Seville (Overture)
+# ジョアキーノ・ロッシーニ：「セビリアの理髪師」序曲
+
+mx_mood_Rossini_1816 = {
+	name = "mx_mood_Rossini_1816_name"
+	music = "file:/music/romantic_music_classical/Rossini/213-Rossini-Barbiere-di-Siviglia-Overture.mp3"
+	pause_factor = 50
+	mood = yes
+	can_be_interrupted = yes
+	is_valid = {
+		romantic_music_peacetime_claasical_music_trigger =  { FROM = 1816 TO = 1846 }
+	}
+}
+
+
+# Carl Maria von Weber: Invitation to the Dance
+# カール・マリア・フォン・ウェーバー：「舞踏への勧誘」
+
+mx_mood_Weber_1819 = {
+	name = "mx_mood_Weber_1819_name"
+	music = "file:/music/romantic_music_classical/Weber/005-Weber-Aufforderung-zum-Tanz.mp3"
+	pause_factor = 50
+	mood = yes
+	can_be_interrupted = yes
+	is_valid = {
+		romantic_music_peacetime_claasical_music_trigger =  { FROM = 1819 TO = 1849 }
+	}
+}
+
+
+# Franz Schubert: Symphony No. 8 (Unfinished Symphony)
+# フランツ・シューベルト：交響曲第7番「未完成」第1楽章
+
+mx_mood_Schubert_1822 = {
+	name = "mx_mood_Schubert_1822_name"
+	music = "file:/music/romantic_music_classical/Schubert/Schubert-Symphony-No8-Unfinished-1st-2020-AR2.mp3"
+	pause_factor = 50
+	mood = yes
+	can_be_interrupted = yes
+	is_valid = {
+		romantic_music_peacetime_claasical_music_trigger =  { FROM = 1822 TO = 1852 }
+	}
+}
+
+
+# Ludwig van Beethoven: Symphony No. 9
+# ルートヴィヒ・ヴァン・ベートーヴェン：交響曲第9番「合唱」第4楽章
+
+mx_mood_Beethoven_1824 = {
+	name = "mx_mood_Beethoven_1824_name"
+	music = "file:/music/romantic_music_classical/Beethoven/Beethoven-Symphony-No9-4th.mp3"
+	pause_factor = 50
+	mood = yes
+	can_be_interrupted = yes
+	is_valid = {
+		romantic_music_peacetime_claasical_music_trigger =  { FROM = 1824 TO = 1854 }
+	}
+}
+
+
+# Felix Mendelssohn: A Midsummer Night's Dream (Interlude)
+# フェリックス・メンデルスゾーン：「真夏の夜の夢」序曲
+
+mx_mood_Mendelssohn_1826 = {
+	name = "mx_mood_Mendelssohn_1826_name"
+	music = "file:/music/romantic_music_classical/Mendelssohn/Mendelssohn-A-Midsummer-Dream-5-Interlude.mp3"
+	pause_factor = 50
+	mood = yes
+	can_be_interrupted = yes
+	is_valid = {
+		romantic_music_peacetime_claasical_music_trigger =  { FROM = 1826 TO = 1856 }
+	}
+}
+
+
+# Franz Schubert: Winterreise (Der Lindenbaum)
+# フランツ・シューベルト：「冬の旅」より「菩提樹」
+
+mx_mood_Schubert_1828 = {
+	name = "mx_mood_Schubert_1828_name"
+	music = "file:/music/romantic_music_classical/Schubert/027-Schubert-Der-Lindenbaum.mp3"
+	pause_factor = 50
+	mood = yes
+	can_be_interrupted = yes
+	is_valid = {
+		romantic_music_peacetime_claasical_music_trigger =  { FROM = 1828 TO = 1858 }
+	}
+}
+
+
+# Gioachino Rossini: William Tell (Interlude)
+# ジョアキーノ・ロッシーニ：「ウィリアム・テル」序曲
+
+mx_mood_Rossini_1829 = {
+	name = "mx_mood_Rossini_1829_name"
+	music = "file:/music/romantic_music_classical/Rossini/Rossini-William-Tell-Overture-2020-AR.mp3"
+	pause_factor = 50
+	mood = yes
+	can_be_interrupted = yes
+	is_valid = {
+		romantic_music_peacetime_claasical_music_trigger =  { FROM = 1829 TO = 1859 }
+	}
+}
+
+
+# Hector Berlioz: Symphonie fantastique
+# エクトル・ベルリオーズ：「幻想交響曲」第4楽章
+
+mx_mood_Berlioz_1830 = {
+	name = "mx_mood_Berlioz_1830_name"
+	music = "file:/music/romantic_music_classical/Berlioz/Berlioz-Symphonie-Fantastique-4th.mp3"
+	pause_factor = 50
+	mood = yes
+	can_be_interrupted = yes
+	is_valid = {
+		romantic_music_peacetime_claasical_music_trigger =  { FROM = 1830 TO = 1860 }
+	}
+}
+
+
+# Frédéric Chopin: Polonaise in A-flat major, Op. 53 (Heroic Polonaise)
+# フレデリック・ショパン：ポロネーズ第6番「英雄」
+
+mx_mood_Chopin_1842 = {
+	name = "mx_mood_Chopin_1842_name"
+	music = "file:/music/romantic_music_classical/Chopin/Chopin-Poronase-No6-Heroic-2019-AR.mp3"
+	pause_factor = 50
+	mood = yes
+	can_be_interrupted = yes
+	is_valid = {
+		romantic_music_peacetime_claasical_music_trigger =  { FROM = 1842 TO = 1872 }
+	}
+}
+
+
+# Mikhail Glinka: Ruslan and Lyudmila (Overture)
+# ミハイル・グリンカ：「ルスランとリュドミラ」序曲
+
+mx_mood_Glinka_1842 = {
+	name = "mx_mood_Glinka_1842_name"
+	music = "file:/music/romantic_music_classical/Glinka/Glinka-Ruslan-and-Ludmilla-Overture-2016.mp3"
+	pause_factor = 50
+	mood = yes
+	can_be_interrupted = yes
+	is_valid = {
+		romantic_music_peacetime_claasical_music_trigger =  { FROM = 1842 TO = 1872 }
+	}
+}
+
+
+# Felix Mendelssohn: Violin Concerto
+# フェリックス・メンデルスゾーン：ヴァイオリン協奏曲
+
+mx_mood_Mendelssohn_1844 = {
+	name = "mx_mood_Mendelssohn_1844_name"
+	music = "file:/music/romantic_music_classical/Mendelssohn/Mendelssohn-VlConcerto-1st-full.mp3"
+	pause_factor = 50
+	mood = yes
+	can_be_interrupted = yes
+	is_valid = {
+		romantic_music_peacetime_claasical_music_trigger =  { FROM = 1844 TO = 1874 }
+	}
+}
+
+
+# Richard Wagner: Tannhäuser (Overture)
+# リヒャルト・ワーグナー：「タンホイザー」序曲
+
+mx_mood_Wagner_1845_A = {
+	name = "mx_mood_Wagner_1845_A_name"
+	music = "file:/music/romantic_music_classical/Wagner/Wagner-Tannhauser-Overture.mp3"
+	pause_factor = 50
+	mood = yes
+	can_be_interrupted = yes
+	is_valid = {
+		romantic_music_peacetime_claasical_music_trigger =  { FROM = 1845 TO = 1875 }
+	}
+}
+
+
+# Franz Liszt: Liebesträume (No. 3 in A-flat major)
+# フランツ・リスト：「愛の夢」第3番
+
+mx_mood_Liszt_1850 = {
+	name = "mx_mood_Liszt_1850_name"
+	music = "file:/music/romantic_music_classical/Liszt/Liszt-Liebestraume-No3-2019-AR.mp3"
+	pause_factor = 50
+	mood = yes
+	can_be_interrupted = yes
+	is_valid = {
+		romantic_music_peacetime_claasical_music_trigger =  { FROM = 1850 TO = 1880 }
+	}
+}
+
+
+# Giuseppe Verdi: La traviata (Libiamo ne' lieti calici)
+# ジュゼッペ・ヴェルディ：「椿姫」より「乾杯の歌」
+
+mx_mood_Verdi_1853 = {
+	name = "mx_mood_Verdi_1853_name"
+	music = "file:/music/romantic_music_classical/Verdi/007-Verdi-La-Traviata-Libiamo.mp3"
+	pause_factor = 50
+	mood = yes
+	can_be_interrupted = yes
+	is_valid = {
+		romantic_music_peacetime_claasical_music_trigger =  { FROM = 1853 TO = 1883 }
+	}
+}
+
+
+# Richard Wagner: Tristan und Isolde (Prelude)
+# リヒャルト・ワーグナー：「トリスタンとイゾルデ」前奏曲
+
+mx_mood_Wagner_1865 = {
+	name = "mx_mood_Wagner_1865_name"
+	music = "file:/music/romantic_music_classical/Wagner/Wagner-Tristan-und-Isolde-Prelude-to-Act1.mp3"
+	pause_factor = 50
+	mood = yes
+	can_be_interrupted = yes
+	is_valid = {
+		romantic_music_peacetime_claasical_music_trigger =  { FROM = 1865 TO = 1895 }
+	}
+}
+
+
+# Johann Strauss II: The Blue Danube
+# ヨハン・シュトラウス二世：「美しく青きドナウ」
+
+mx_mood_Strauss2_1867 = {
+	name = "mx_mood_Strauss2_1867_name"
+	music = "file:/music/romantic_music_classical/Strauss2/Johann-Strauss-2-The-Blue-Danube.mp3"
+	pause_factor = 50
+	mood = yes
+	can_be_interrupted = yes
+	is_valid = {
+		romantic_music_peacetime_claasical_music_trigger =  { FROM = 1867 TO = 1897 }
+	}
+}
+
+
+# Richard Wagner: Die Meistersinger von Nürnberg (Prelude)
+# リヒャルト・ワーグナー：「ニュルンベルクのマイスタージンガー」前奏曲
+
+mx_mood_Wagner_1868 = {
+	name = "mx_mood_Wagner_1868_name"
+	music = "file:/music/romantic_music_classical/Wagner/Wagner-Die-Meistersinger-von-Nuernberg-Vorspiel-act1-2019-AR.mp3"
+	pause_factor = 50
+	mood = yes
+	can_be_interrupted = yes
+	is_valid = {
+		romantic_music_peacetime_claasical_music_trigger =  { FROM = 1868 TO = 1898 }
+	}
+}
+
+
+# Edvard Grieg: Piano Concerto
+# エドヴァルド・グリーグ：ピアノ協奏曲 第1楽章
+
+mx_mood_Grieg_1868 = {
+	name = "mx_mood_Grieg_1868_name"
+	music = "file:/music/romantic_music_classical/Grieg/Grieg-PianoConcerto-1st.mp3"
+	pause_factor = 50
+	mood = yes
+	can_be_interrupted = yes
+	is_valid = {
+		romantic_music_peacetime_claasical_music_trigger =  { FROM = 1868 TO = 1898 }
+	}
+}
+
+
+# Bedřich Smetana: Má vlast (The Moldau)
+# ベドルジフ・スメタナ：「わが祖国」より「モルダウ」
+
+mx_mood_Smetana_1874 = {
+	name = "mx_mood_Smetana_1874_name"
+	music = "file:/music/romantic_music_classical/Smetana/Smetana-The-Moldau-2013.mp3"
+	pause_factor = 50
+	mood = yes
+	can_be_interrupted = yes
+	is_valid = {
+		romantic_music_peacetime_claasical_music_trigger =  { FROM = 1874 TO = 1904 }
+	}
+}
+
+
+# Modest Mussorgsky: Pictures at an Exhibition (The Bogatyr Gates)
+# モデスト・ムソルグスキー：「展覧会の絵」より「キエフの大門」
+
+mx_mood_Mussorgsky_1874 = {
+	name = "mx_mood_Mussorgsky_1874_name"
+	music = "file:/music/romantic_music_classical/Mussorgsky/Mussorgsky-Pictures-at-an-Exhibition-La-Grande-Porte-de-Kiev-2018-AR.mp3"
+	pause_factor = 50
+	mood = yes
+	can_be_interrupted = yes
+	is_valid = {
+		romantic_music_peacetime_claasical_music_trigger =  { FROM = 1874 TO = 1904 }
+	}
+}
+
+
+# Georges Bizet: Carmen (Prelude)
+# ジョルジュ・ビゼー：「カルメン」第1組曲 前奏曲
+
+mx_mood_Bizet_1875 = {
+	name = "mx_mood_Bizet_1875_name"
+	music = "file:/music/romantic_music_classical/Bizet/Bizet-Carmen-Suite-No1-Prelude-2019-AR2.mp3"
+	pause_factor = 50
+	mood = yes
+	can_be_interrupted = yes
+	is_valid = {
+		romantic_music_peacetime_claasical_music_trigger =  { FROM = 1875 TO = 1905 }
+	}
+}
+
+
+# Johannes Brahms: Symphony No. 2
+# ヨハネス・ブラームス：交響曲第2番 第1楽章
+
+mx_mood_Brahms_1877 = {
+	name = "mx_mood_Brahms_1877_name"
+	music = "file:/music/romantic_music_classical/Brahms/Brahms-Symphony-No2-1st-2020-AR2.mp3"
+	pause_factor = 50
+	mood = yes
+	can_be_interrupted = yes
+	is_valid = {
+		romantic_music_peacetime_claasical_music_trigger =  { FROM = 1877 TO = 1907 }
+	}
+}
+
+
+# Johannes Brahms: Violin Sonata No. 1
+# ヨハネス・ブラームス：ヴァイオリンソナタ第1番「雨の歌」
+
+mx_mood_Brahms_1879 = {
+	name = "mx_mood_Brahms_1879_name"
+	music = "file:/music/romantic_music_classical/Brahms/134-Brahms-ViolinSonata-No1-1st.mp3"
+	pause_factor = 50
+	mood = yes
+	can_be_interrupted = yes
+	is_valid = {
+		romantic_music_peacetime_claasical_music_trigger =  { FROM = 1879 TO = 1909 }
+	}
+}
+
+
+# Pyotr Ilyich Tchaikovsky: 1812 Overture
+# ピョートル・イリイチ・チャイコフスキー：序曲「1812年」
+
+mx_mood_Tchaikovsky_1880 = {
+	name = "mx_mood_Tchaikovsky_1880_name"
+	music = "file:/music/romantic_music_classical/Tchaikovsky/068-Tchaikovsky-1812-Overture.mp3"
+	pause_factor = 50
+	mood = yes
+	can_be_interrupted = yes
+	is_valid = {
+		romantic_music_peacetime_claasical_music_trigger =  { FROM = 1880 TO = 1910 }
+	}
+}
+
+
+# Camille Saint-Saëns: The Carnival of the Animals (The Swan)
+# カミーユ・サン＝サーンス：「動物の謝肉祭」より「白鳥」
+
+mx_mood_Saint_Saens_1886 = {
+	name = "mx_mood_Saint_Saens_1886_name"
+	music = "file:/music/romantic_music_classical/Saint-Saens/Saint-Saens-AnimalCarnibal-TheSwan.mp3"
+	pause_factor = 50
+	mood = yes
+	can_be_interrupted = yes
+	is_valid = {
+		romantic_music_peacetime_claasical_music_trigger =  { FROM = 1886 TO = 1916 }
+	}
+}
+
+
+# Gustav Mahler: Symphony No. 1 (Titan)
+# グスタフ・マーラー：交響曲第1番「巨人」第2楽章
+
+mx_mood_Mahler_1888 = {
+	name = "mx_mood_Mahler_1888_name"
+	music = "file:/music/romantic_music_classical/Mahler/Mahler-Symphony-No1-2nd.mp3"
+	pause_factor = 50
+	mood = yes
+	can_be_interrupted = yes
+	is_valid = {
+		romantic_music_peacetime_claasical_music_trigger =  { FROM = 1888 TO = 1918 }
+	}
+}
+
+
+# Pyotr Ilyich Tchaikovsky: Symphony No. 5
+# ピョートル・イリイチ・チャイコフスキー：交響曲第5番 第2楽章
+
+mx_mood_Tchaikovsky_1888 = {
+	name = "mx_mood_Tchaikovsky_1888_name"
+	music = "file:/music/romantic_music_classical/Tchaikovsky/Tchaikovsky-Symphony-No5-2nd-2020-AR.mp3"
+	pause_factor = 50
+	mood = yes
+	can_be_interrupted = yes
+	is_valid = {
+		romantic_music_peacetime_claasical_music_trigger =  { FROM = 1888 TO = 1918 }
+	}
+}
+
+
+# César Franck: Symphony in D minor
+# セザール・フランク：交響曲 第3楽章
+
+mx_mood_Franck_1889 = {
+	name = "mx_mood_Franck_1889_name"
+	music = "file:/music/romantic_music_classical/Franck/124-Franck-Symphony-in-D-minor-3rd.mp3"
+	pause_factor = 50
+	mood = yes
+	can_be_interrupted = yes
+	is_valid = {
+		romantic_music_peacetime_claasical_music_trigger =  { FROM = 1889 TO = 1919 }
+	}
+}
+
+
+# Gabriel Fauré: Requiem (Pie Jesu)
+# ガブリエル・フォーレ：レクイエムより「ピエ・イェズ」
+
+mx_mood_Faure_1890 = {
+	name = "mx_mood_Faure_1890_name"
+	music = "file:/music/romantic_music_classical/Faure/Faure-Requiem-PieJesu.mp3"
+	pause_factor = 50
+	mood = yes
+	can_be_interrupted = yes
+	is_valid = {
+		romantic_music_peacetime_claasical_music_trigger =  { FROM = 1890 TO = 1920 }
+	}
+}
+
+
+# Anton Bruckner: Symphony No. 8
+# アントン・ブルックナー：交響曲第8番 第1楽章
+
+mx_mood_Bruckner_1892 = {
+	name = "mx_mood_Bruckner_1892_name"
+	music = "file:/music/romantic_music_classical/Bruckner/Bruckner-Symphony-No8-1st-2019-AR.mp3"
+	pause_factor = 50
+	mood = yes
+	can_be_interrupted = yes
+	is_valid = {
+		romantic_music_peacetime_claasical_music_trigger =  { FROM = 1892 TO = 1922 }
+	}
+}
+
+
+# Antonín Dvořák: Symphony No. 9 (From the New World)
+# アントニン・ドヴォルザーク：交響曲第9番「新世界より」第4楽章
+
+mx_mood_Dvorak_1893 = {
+	name = "mx_mood_Dvorak_1893_name"
+	music = "file:/music/romantic_music_classical/Dvorak/Dvorak-Symphony-No9-4th-2019-AR.mp3"
+	pause_factor = 50
+	mood = yes
+	can_be_interrupted = yes
+	is_valid = {
+		romantic_music_peacetime_claasical_music_trigger =  { FROM = 1893 TO = 1923 }
+	}
+}
+
+
+# Sergei Rachmaninoff: Piano Concerto No. 2
+# セルゲイ・ラフマニノフ：ピアノ協奏曲第2番 第1楽章
+
+mx_mood_Rachmaninoff_1901 = {
+	name = "mx_mood_Rachmaninoff_1901_name"
+	music = "file:/music/romantic_music_classical/Rachmaninoff/Rachmaninov-PianoConcerto-No2-1st-2019-AR.mp3"
+	pause_factor = 50
+	mood = yes
+	can_be_interrupted = yes
+	is_valid = {
+		romantic_music_peacetime_claasical_music_trigger =  { FROM = 1901 TO = 1931 }
+	}
+}
+
+
+# Giacomo Puccini: Madama Butterfly
+# ジャコモ・プッチーニ：「蝶々夫人」
+
+mx_mood_Puccini_1904 = {
+	name = "mx_mood_Puccini_1904_name"
+	music = "file:/music/romantic_music_classical/Puccini/Puccini-Madame-Butterfly-2015.mp3"
+	pause_factor = 50
+	mood = yes
+	can_be_interrupted = yes
+	is_valid = {
+		romantic_music_peacetime_claasical_music_trigger =  { FROM = 1904 TO = 1934 }
+	}
+}
+
+
+# Claude Debussy: Préludes (The Girl with the Flaxen Hair)
+# クロード・ドビュッシー：前奏曲 第1巻より「亜麻色の髪の乙女」
+
+mx_mood_Debussy_1910 = {
+	name = "mx_mood_Debussy_1910_name"
+	music = "file:/music/romantic_music_classical/Debussy/Debussy-Girl-with-Flaxen-Hair.mp3"
+	pause_factor = 50
+	mood = yes
+	can_be_interrupted = yes
+	is_valid = {
+		romantic_music_peacetime_claasical_music_trigger =  { FROM = 1910 TO = 1940 }
+	}
+}
+
+
+# Richard Strauss: An Alpine Symphony
+# リヒャルト・シュトラウス：「アルプス交響曲」
+
+mx_mood_RStrauss_1915 = {
+	name = "mx_mood_RStrauss_1915_name"
+	music = "file:/music/romantic_music_classical/RStrauss/Richard-Strauss-Alpine-Symphony-1-2-3.mp3"
+	pause_factor = 50
+	mood = yes
+	can_be_interrupted = yes
+	is_valid = {
+		romantic_music_peacetime_claasical_music_trigger =  { FROM = 1915 TO = 1945 }
+	}
+}
+
+
+# Maurice Ravel: Boléro
+# モーリス・ラヴェル：「ボレロ」
+
+mx_mood_Ravel_1928 = {
+	name = "mx_mood_Ravel_1928_name"
+	music = "file:/music/romantic_music_classical/Ravel/Ravel-Borelo.mp3"
+	pause_factor = 50
+	mood = yes
+	can_be_interrupted = yes
+	is_valid = {
+		romantic_music_peacetime_claasical_music_trigger =  { FROM = 1928 TO = 1958 }
+	}
+}
