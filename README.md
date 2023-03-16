@@ -35,7 +35,7 @@ track997_name:0 "Track Name"
 
 	1. Find a suitable picture in the base game gfx folder to use for the category. You will have to crop out a 800x450 part of this to use for your image.
 	2. Once you have a good cropped image to use, open `music_frame.dds` and copy it on top of your image so it overlays it.
-	3. Finally you'll need to put text on the image saying what the category is. To match the existing style you'll need to use the `ParadoxVictorian` font that can be found in the vanilla game files. Then simply draw a text box between the edges of the frame in the center of the image and write your category name with font size 89, kind of like this:
+	3. Finally you'll need to put text on the image saying what the category is. To match the existing style you'll need to use the `ParadoxVictorian` font that can be found in the vanilla game files. Then simply draw a text box between the edges of the frame in the center of the image and write your category name with font size 89, and rgb(255, 255, 255) color of the text with a drop shadow (there is a custom shader for the category gfx and if it isn't pure white it will look very wrong!) kind of like this:
 	![GFX guide screenshot](/assets/gfx_guide.png)
 
 4. The last thing you will need to do after making gfx is add the new category into the `gui/jomini/music_player/music_player_view.dds`. Go to line 336 of this file and add a new `music_category_button` into the widget found there. It should look something like this:
