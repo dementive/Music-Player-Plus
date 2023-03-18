@@ -341,22 +341,22 @@ types music_player_types
 			# For some reason the ordering here does not matter at all.
 			# The actual order of the categories is entirely decided by what file (alphebetically)the category is defined in 
 
-			### Full Soundtracks
+			### name_mp_plus
 			music_category_button = {
 				shaderfile = "gfx/FX/GUI_button_saturate.shader"
 				effectname = "SoftSaturate"
-				visible = "[ObjectsEqual('Full Soundtracks', MusicPlayer.GetCategoryName( MusicPlayerCategory.Self ))]"
+				visible = "[ObjectsEqual('name_mp_plus', MusicPlayer.GetCategoryNameLocKey( MusicPlayerCategory.Self ))]"
 
 				blockoverride "button_texture" {
 					texture = "gfx/music_player/full_soundtracks.dds"
 				}
 			}
 
-			### Egyptian Music
+			### egyptian_music_category
 			music_category_button = {
 				shaderfile = "gfx/FX/GUI_button_saturate.shader"
 				effectname = "Saturate"
-				visible = "[ObjectsEqual('Egyptian Music', MusicPlayer.GetCategoryName( MusicPlayerCategory.Self ))]"
+				visible = "[ObjectsEqual('egyptian_music_category', MusicPlayer.GetCategoryNameLocKey( MusicPlayerCategory.Self ))]"
 
 				blockoverride "button_texture" {
 					texture = "gfx/music_player/egyptian_music.dds"
@@ -367,18 +367,18 @@ types music_player_types
 			music_category_button = {
 				shaderfile = "gfx/FX/GUI_button_saturate.shader"
 				effectname = "SoftSaturate"
-				visible = "[ObjectsEqual('Morgenroete', MusicPlayer.GetCategoryName( MusicPlayerCategory.Self ))]"
+				visible = "[ObjectsEqual('Morgenroete_Soundtrack_mp_categories', MusicPlayer.GetCategoryNameLocKey( MusicPlayerCategory.Self ))]"
 
 				blockoverride "button_texture" {
 					texture = "gfx/music_player/morgenrote.dds"
 				}
 				tooltip = "MORGENROTE_REQUIRED_TT"
 			}
-			### Anno 1800
+			### name_anno_1800_category
 			music_category_button = {
 				shaderfile = "gfx/FX/GUI_button_saturate.shader"
 				effectname = "Saturate"
-				visible = "[ObjectsEqual('Anno 1800', MusicPlayer.GetCategoryName( MusicPlayerCategory.Self ))]"
+				visible = "[ObjectsEqual('name_anno_1800_category', MusicPlayer.GetCategoryNameLocKey( MusicPlayerCategory.Self ))]"
 
 				blockoverride "button_texture" {
 					texture = "gfx/music_player/anno_1800.dds"
@@ -386,11 +386,11 @@ types music_player_types
 				tooltip = "ANNO_1800_REQUIRED_TT"
 			}
 
-			### Romantic Music
+			### romantic_music_category
 			music_category_button = {
 				shaderfile = "gfx/FX/GUI_button_saturate.shader"
 				effectname = "Saturate"
-				visible = "[ObjectsEqual('Romantic Music', MusicPlayer.GetCategoryName( MusicPlayerCategory.Self ))]"
+				visible = "[ObjectsEqual('romantic_music_category', MusicPlayer.GetCategoryNameLocKey( MusicPlayerCategory.Self ))]"
 
 				blockoverride "button_texture" {
 					texture = "gfx/music_player/romantic_music.dds"
@@ -398,9 +398,9 @@ types music_player_types
 				tooltip = "ROMANTIC_MUSIC_REQUIRED_TT"
 			}
 
-			### Alternative Music
+			### name_alternative_music
 			music_category_button = {
-				visible = "[ObjectsEqual('Alternative Music', MusicPlayer.GetCategoryName( MusicPlayerCategory.Self ))]"
+				visible = "[ObjectsEqual('name_alternative_music', MusicPlayer.GetCategoryNameLocKey( MusicPlayerCategory.Self ))]"
 				shaderfile = "gfx/FX/GUI_button_saturate.shader"
 				effectname = "Saturate"
 				blockoverride "button_texture" {
@@ -409,22 +409,22 @@ types music_player_types
 				tooltip = "ALTERNATIVE_MUSIC_REQUIRED_TT"
 			}
 
-			### Roman Music
+			### name_roman_music_category
 			music_category_button = {
 				shaderfile = "gfx/FX/GUI_button_saturate.shader"
 				effectname = "SoftSaturate"
-				visible = "[ObjectsEqual('Roman Music', MusicPlayer.GetCategoryName( MusicPlayerCategory.Self ))]"
+				visible = "[ObjectsEqual('name_roman_music_category', MusicPlayer.GetCategoryNameLocKey( MusicPlayerCategory.Self ))]"
 
 				blockoverride "button_texture" {
 					texture = "gfx/music_player/roman_music.dds"
 				}
 			}
 
-			### Japanese Music
+			### category_japanesemod_music
 			music_category_button = {
 				shaderfile = "gfx/FX/GUI_button_saturate.shader"
 				effectname = "SoftSaturate"
-				visible = "[ObjectsEqual('Japanese Music', MusicPlayer.GetCategoryName( MusicPlayerCategory.Self ))]"
+				visible = "[ObjectsEqual('category_japanesemod_music', MusicPlayer.GetCategoryNameLocKey( MusicPlayerCategory.Self ))]"
 
 				blockoverride "button_texture" {
 					texture = "gfx/music_player/japanese_music.dds"
@@ -432,11 +432,11 @@ types music_player_types
 				tooltip = "JAPANESE_MUSIC_REQUIRED_TT"
 			}
 
-			### Historical Music
+			### name_historical_music
 			music_category_button = {
 				shaderfile = "gfx/FX/GUI_button_saturate.shader"
 				effectname = "SoftSaturate"
-				visible = "[ObjectsEqual('Historical Music', MusicPlayer.GetCategoryName( MusicPlayerCategory.Self ))]"
+				visible = "[ObjectsEqual('name_historical_music', MusicPlayer.GetCategoryNameLocKey( MusicPlayerCategory.Self ))]"
 
 				blockoverride "button_texture" {
 					texture = "gfx/music_player/historical_music.dds"
@@ -444,9 +444,9 @@ types music_player_types
 				tooltip = "HISTORICAL_MUSIC_REQUIRED_TT"
 			}
 
-			### VICTORIA 3 SOUNDTRACK
+			### Victoria_3_Soundtrack
 			music_category_button = {
-				visible = "[ObjectsEqual('Victoria 3 Soundtrack', MusicPlayer.GetCategoryName( MusicPlayerCategory.Self ))]"
+				visible = "[ObjectsEqual('Victoria_3_Soundtrack', MusicPlayer.GetCategoryNameLocKey( MusicPlayerCategory.Self ))]"
 
 				blockoverride "button_texture" {
 					texture = "gfx/interface/illustrations/music_player/victoria_3_soundtrack.dds"
@@ -462,9 +462,9 @@ types music_player_types
 				}
 			}
 
-			### VICTORIA 2 SOUNDTRACK
+			### Victoria_3_Preorder
 			music_category_button = {
-				visible = "[ObjectsEqual('Victoria 2 Soundtrack', MusicPlayer.GetCategoryName( MusicPlayerCategory.Self ))]"
+				visible = "[ObjectsEqual('Victoria_3_Preorder', MusicPlayer.GetCategoryNameLocKey( MusicPlayerCategory.Self ))]"
 
 				blockoverride "button_texture" {
 					texture = "gfx/interface/illustrations/music_player/victoria_2_soundtrack.dds"
@@ -485,18 +485,18 @@ types music_player_types
 			# For some reason the ordering here does not matter at all.
 			# The actual order of the categories is entirely decided by what file (alphebetically)the category is defined in 
 
-			### Full Soundtracks
+			### name_mp_plus
 			music_category_button = {
-				visible = "[ObjectsEqual('Full Soundtracks', MusicPlayer.GetCategoryName( MusicPlayerCategory.Self ))]"
+				visible = "[ObjectsEqual('name_mp_plus', MusicPlayer.GetCategoryNameLocKey( MusicPlayerCategory.Self ))]"
 
 				blockoverride "button_texture" {
 					texture = "gfx/music_player/full_soundtracks.dds"
 				}
 			}
 
-			### Egyptian Music
+			### egyptian_music_category
 			music_category_button = {
-				visible = "[ObjectsEqual('Egyptian Music', MusicPlayer.GetCategoryName( MusicPlayerCategory.Self ))]"
+				visible = "[ObjectsEqual('egyptian_music_category', MusicPlayer.GetCategoryNameLocKey( MusicPlayerCategory.Self ))]"
 
 				blockoverride "button_texture" {
 					texture = "gfx/music_player/egyptian_music.dds"
@@ -505,16 +505,16 @@ types music_player_types
 
 			### Moregenrote
 			music_category_button = {
-				visible = "[ObjectsEqual('Morgenroete', MusicPlayer.GetCategoryName( MusicPlayerCategory.Self ))]"
+				visible = "[ObjectsEqual('Morgenroete_Soundtrack_mp_categories', MusicPlayer.GetCategoryNameLocKey( MusicPlayerCategory.Self ))]"
 
 				blockoverride "button_texture" {
 					texture = "gfx/music_player/morgenrote.dds"
 				}
 				tooltip = "MORGENROTE_REQUIRED_TT"
 			}
-			### Anno 1800
+			### name_anno_1800_category
 			music_category_button = {
-				visible = "[ObjectsEqual('Anno 1800', MusicPlayer.GetCategoryName( MusicPlayerCategory.Self ))]"
+				visible = "[ObjectsEqual('name_anno_1800_category', MusicPlayer.GetCategoryNameLocKey( MusicPlayerCategory.Self ))]"
 
 				blockoverride "button_texture" {
 					texture = "gfx/music_player/anno_1800.dds"
@@ -522,9 +522,9 @@ types music_player_types
 				tooltip = "ANNO_1800_REQUIRED_TT"
 			}
 
-			### Romantic Music
+			### romantic_music_category
 			music_category_button = {
-				visible = "[ObjectsEqual('Romantic Music', MusicPlayer.GetCategoryName( MusicPlayerCategory.Self ))]"
+				visible = "[ObjectsEqual('romantic_music_category', MusicPlayer.GetCategoryNameLocKey( MusicPlayerCategory.Self ))]"
 
 				blockoverride "button_texture" {
 					texture = "gfx/music_player/romantic_music.dds"
@@ -532,29 +532,29 @@ types music_player_types
 				tooltip = "ROMANTIC_MUSIC_REQUIRED_TT"
 			}
 
-			### Alternative Music
+			### name_alternative_music
 			music_category_button = {
 				shaderfile = "gfx/FX/GUI_button_saturate.shader"
 				effectname = "SoftSaturate"
-				visible = "[ObjectsEqual('Alternative Music', MusicPlayer.GetCategoryName( MusicPlayerCategory.Self ))]"
+				visible = "[ObjectsEqual('name_alternative_music', MusicPlayer.GetCategoryNameLocKey( MusicPlayerCategory.Self ))]"
 				blockoverride "button_texture" {
 					texture = "gfx/music_player/alternative_music.dds"
 				}
 				tooltip = "ALTERNATIVE_MUSIC_REQUIRED_TT"
 			}
 
-			### Roman Music
+			### name_roman_music_category
 			music_category_button = {
-				visible = "[ObjectsEqual('Roman Music', MusicPlayer.GetCategoryName( MusicPlayerCategory.Self ))]"
+				visible = "[ObjectsEqual('name_roman_music_category', MusicPlayer.GetCategoryNameLocKey( MusicPlayerCategory.Self ))]"
 
 				blockoverride "button_texture" {
 					texture = "gfx/music_player/roman_music.dds"
 				}
 			}
 
-			### Japanese Music
+			### category_japanesemod_music
 			music_category_button = {
-				visible = "[ObjectsEqual('Japanese Music', MusicPlayer.GetCategoryName( MusicPlayerCategory.Self ))]"
+				visible = "[ObjectsEqual('category_japanesemod_music', MusicPlayer.GetCategoryNameLocKey( MusicPlayerCategory.Self ))]"
 
 				blockoverride "button_texture" {
 					texture = "gfx/music_player/japanese_music.dds"
@@ -562,9 +562,9 @@ types music_player_types
 				tooltip = "JAPANESE_MUSIC_REQUIRED_TT"
 			}
 
-			### Historical Music
+			### name_historical_music
 			music_category_button = {
-				visible = "[ObjectsEqual('Historical Music', MusicPlayer.GetCategoryName( MusicPlayerCategory.Self ))]"
+				visible = "[ObjectsEqual('name_historical_music', MusicPlayer.GetCategoryNameLocKey( MusicPlayerCategory.Self ))]"
 
 				blockoverride "button_texture" {
 					texture = "gfx/music_player/historical_music.dds"
@@ -572,18 +572,27 @@ types music_player_types
 				tooltip = "HISTORICAL_MUSIC_REQUIRED_TT"
 			}
 
-			### VICTORIA 3 SOUNDTRACK
+			### Victoria_3_Soundtrack
 			music_category_button = {
-				visible = "[ObjectsEqual('Victoria 3 Soundtrack', MusicPlayer.GetCategoryName( MusicPlayerCategory.Self ))]"
+				visible = "[ObjectsEqual('Victoria_3_Soundtrack', MusicPlayer.GetCategoryNameLocKey( MusicPlayerCategory.Self ))]"
 
 				blockoverride "button_texture" {
 					texture = "gfx/interface/illustrations/music_player/victoria_3_soundtrack.dds"
 				}
 			}
 
-			### VICTORIA 2 SOUNDTRACK
+			### MELODIES FOR THE MASSES
 			music_category_button = {
-				visible = "[ObjectsEqual('Victoria 2 Soundtrack', MusicPlayer.GetCategoryName( MusicPlayerCategory.Self ))]"
+				visible = "[ObjectsEqual('Melodies_for_the_Masses', MusicPlayer.GetCategoryNameLocKey( MusicPlayerCategory.Self ))]"
+
+				blockoverride "button_texture" {
+					texture = "gfx/interface/illustrations/music_player/melodies_for_the_masses.dds"
+				}
+			}
+
+			### Victoria_3_Preorder
+			music_category_button = {
+				visible = "[ObjectsEqual('Victoria_3_Preorder', MusicPlayer.GetCategoryNameLocKey( MusicPlayerCategory.Self ))]"
 
 				blockoverride "button_texture" {
 					texture = "gfx/interface/illustrations/music_player/victoria_2_soundtrack.dds"
@@ -637,7 +646,7 @@ types music_player_types
 		alpha = "[TransparentIfFalse(ObjectsEqual('Enabled', MusicPlayer.GetCategoryEnabledText( MusicPlayerCategory.Self )))]"
 		block "button_texture" {
 			#using = default_button
-			#text = "[MusicPlayer.GetCategoryName( MusicPlayerCategory.Self )]"
+			#text = "[MusicPlayer.GetCategoryNameLocKey( MusicPlayerCategory.Self )]"
 			#using = fontsize_xl
 		}
 		modify_texture = {
