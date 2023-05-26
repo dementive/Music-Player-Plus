@@ -5,329 +5,282 @@
 AMP01 = {
 	name = "AMP01_name"
 	music = "file:/music/AMP_Berlioz - Overture to le corsaire_US Marine Band.ogg"
-	pause_factor = 25
 	mood = yes
 	can_be_interrupted = no
 }
 AMP02 = {
 	name = "AMP02_name"
 	music = "file:/music/AMP_Berlioz-Roman Carnival Overture_US Army Brass Quintet.ogg"
-	pause_factor = 25
 	mood = yes
 	can_be_interrupted = no
 }
 AMP03 = {
 	name = "AMP03_name"
 	music = "file:/music/AMP_Brahms-Piano Sonata no. 3 Op. 5 - V Finale_Felipe Sarro.ogg"
-	pause_factor = 25
 	mood = yes
 	can_be_interrupted = no
 }
 AMP04 = {
 	name = "AMP04_name"
 	music = "file:/music/AMP_Brahms-Trio in A Minor, Op. 114 - III. Andantino grazioso_Paul Pitman.ogg"
-	pause_factor = 25
 	mood = yes
 	can_be_interrupted = no
 }
 AMP05 = {
 	name = "AMP05_name"
 	music = "file:/music/AMP_Brahms-Trio in A Minor, Op. 114 - IV. Allegro_Paul Pitman.ogg"
-	pause_factor = 25
 	mood = yes
 	can_be_interrupted = no
 }
 AMP06 = {
 	name = "AMP06_name"
 	music = "file:/music/AMP_Chopin_Presto con fuoco from Scherzo nr.3 in csm op.39_Gianluca Luisi.ogg"
-	pause_factor = 25
 	mood = yes
 	can_be_interrupted = no
 }
 AMP07 = {
 	name = "AMP07_name"
 	music = "file:/music/AMP_Chopin-Etude Op. 25 Nr. II in a-moll_Kimiko Douglass-Ishizaka.ogg"
-	pause_factor = 25
 	mood = yes
 	can_be_interrupted = no
 }
 AMP08 = {
 	name = "AMP08_name"
 	music = "file:/music/AMP_Chopin-Maestoso from Polonaise in sfm opus 53_Gianluca Luisi.ogg"
-	pause_factor = 25
 	mood = yes
 	can_be_interrupted = no
 }
 AMP09 = {
 	name = "AMP09_name"
 	music = "file:/music/AMP_Chopin-Mazurka in B major op. 63 no.1_Roberto Poli.ogg"
-	pause_factor = 25
 	mood = yes
 	can_be_interrupted = no
 }
 AMP10 = {
 	name = "AMP10_name"
 	music = "file:/music/AMP_Chopin-Mazurka Op.63 No.2_Vadim Chaimovich.ogg"
-	pause_factor = 25
 	mood = yes
 	can_be_interrupted = no
 }
 AMP11 = {
 	name = "AMP11_name"
 	music = "file:/music/AMP_Chopin-Mazurka Op.63 No.3_Vadim Chaimovich.ogg"
-	pause_factor = 25
 	mood = yes
 	can_be_interrupted = no
 }
 AMP12 = {
 	name = "AMP12_name"
 	music = "file:/music/AMP_Chopin-Nocturne in G minor, Op.15 No.3_Caela Harrison.ogg"
-	pause_factor = 25
 	mood = yes
 	can_be_interrupted = no
 }
 AMP13 = {
 	name = "AMP13_name"
 	music = "file:/music/AMP_Chopin-Nocturne No.03 in bfm Op.9 1_SDRodrian.ogg"
-	pause_factor = 25
 	mood = yes
 	can_be_interrupted = no
 }
 AMP14 = {
 	name = "AMP14_name"
 	music = "file:/music/AMP_Chopin-Polonaise in AM Op. 40 Nr. 1_Felipe Sarro.ogg"
-	pause_factor = 25
 	mood = yes
 	can_be_interrupted = no
 }
 AMP15 = {
 	name = "AMP15_name"
 	music = "file:/music/AMP_Donizetti-Allegro in C Major_USAF Band.ogg"
-	pause_factor = 25
 	mood = yes
 	can_be_interrupted = no
 }
 AMP16 = {
 	name = "AMP16_name"
 	music = "file:/music/AMP_Dvorak-Symphony No. 9 I Adagio-Allegro-Molto_Columbia University Orchestra.ogg"
-	pause_factor = 25
 	mood = yes
 	can_be_interrupted = no
 }
 AMP17 = {
 	name = "AMP17_name"
 	music = "file:/music/AMP_Dvorak-Symphony No. 9 III Scherzo-Molto-Vivace_Columbia University Orchestra.ogg"
-	pause_factor = 25
 	mood = yes
 	can_be_interrupted = no
 }
 AMP18 = {
 	name = "AMP18_name"
 	music = "file:/music/AMP_Dvorak-Symphony No.8, III Allegretto Grazioso_Davis High School Symphony Orchestra.ogg"
-	pause_factor = 25
 	mood = yes
 	can_be_interrupted = no
 }
 AMP19 = {
 	name = "AMP19_name"
 	music = "file:/music/AMP_Dvorak-Symphony No.8, IV Allegro ma non troppo_Davis High School Symphony Orchestra.ogg"
-	pause_factor = 25
 	mood = yes
 	can_be_interrupted = no
 }
 AMP20 = {
 	name = "AMP20_name"
 	music = "file:/music/AMP_elgar_pomp_and_circumstance_march_1.ogg"
-	pause_factor = 25
 	mood = yes
 	can_be_interrupted = no
 }
 AMP21 = {
 	name = "AMP21_name"
 	music = "file:/music/AMP_Franck-Sonata for Cello and Piano - III. Recitativo- Fantasia. Ben moderato_Paul Pitman.ogg"
-	pause_factor = 25
 	mood = yes
 	can_be_interrupted = no
 }
 AMP22 = {
 	name = "AMP22_name"
 	music = "file:/music/AMP_Liszt_Liebestraum_unknown.ogg"
-	pause_factor = 25
 	mood = yes
 	can_be_interrupted = no
 }
 AMP23 = {
 	name = "AMP23_name"
 	music = "file:/music/AMP_Liszt-Second Hungarian Rhapsody_Martha Goldstein.ogg"
-	pause_factor = 25
 	mood = yes
 	can_be_interrupted = no
 }
 AMP24 = {
 	name = "AMP24_name"
 	music = "file:/music/AMP_Mendelssohn-Auf Fluge ln Des Gesanges Op.34 No.2_Daniel Hope, Sebastian Knauer.ogg"
-	pause_factor = 25
 	mood = yes
 	can_be_interrupted = no
 }
 AMP25 = {
 	name = "AMP25_name"
 	music = "file:/music/AMP_Mendelssohn-Violin Concerto in Emin Op.64 Allegretto_vbr_Jascha Heifetz.ogg"
-	pause_factor = 25
 	mood = yes
 	can_be_interrupted = no
 }
 AMP26 = {
 	name = "AMP26_name"
 	music = "file:/music/AMP_National_Emblem_-_U.S._Army_Band.ogg"
-	pause_factor = 25
 	mood = yes
 	can_be_interrupted = no
 }
 AMP27 = {
 	name = "AMP27_name"
 	music = "file:/music/AMP_Rimsky-Korsakov-Polonaise (fromLaNuitNoel)_ USAF Concert Band and Singing Sargeants.ogg"
-	pause_factor = 25
 	mood = yes
 	can_be_interrupted = no
 }
 AMP28 = {
 	name = "AMP28_name"
 	music = "file:/music/AMP_Schubert-4. Impromptu Op 964 Allegro_Kimiko Douglass.ogg"
-	pause_factor = 25
 	mood = yes
 	can_be_interrupted = no
 }
 AMP29 = {
 	name = "AMP29_name"
 	music = "file:/music/AMP_Schubert-Piano Trio In E Flat_Andante Con Moto_Beaux Arts Trio.ogg"
-	pause_factor = 25
 	mood = yes
 	can_be_interrupted = no
 }
 AMP30 = {
 	name = "AMP30_name"
 	music = "file:/music/AMP_Schumann-Intermezzo No. 2--Presto a capriccio-Glen W. Prillaman.ogg"
-	pause_factor = 25
 	mood = yes
 	can_be_interrupted = no
 }
 AMP31 = {
 	name = "AMP31_name"
 	music = "file:/music/AMP_Smetana-Three Dances from The Bartered Bride, The Comedians_US Marine Band.ogg"
-	pause_factor = 25
 	mood = yes
 	can_be_interrupted = no
 }
 AMP32 = {
 	name = "AMP32_name"
 	music = "file:/music/AMP_wagner_tannhuser_overture.ogg"
-	pause_factor = 25
 	mood = yes
 	can_be_interrupted = no
 }
 AMP33 = {
 	name = "AMP33_name"
 	music = "file:/music/AMP_Tchaikovsky-Finale (Symphony No. 4)_The US Army Strings.ogg"
-	pause_factor = 25
 	mood = yes
 	can_be_interrupted = no
 }
 AMP34 = {
 	name = "AMP34_name"
 	music = "file:/music/AMP_Tchaikovsky-Souvenir de Florence_The US Army Strings.ogg"
-	pause_factor = 25
 	mood = yes
 	can_be_interrupted = no
 }
 AMP35 = {
 	name = "AMP35_name"
 	music = "file:/music/AMP_Verdi-Nabucco, overture_Riccardo Muti, La Scala Philharmonic Orchestra.ogg"
-	pause_factor = 25
 	mood = yes
 	can_be_interrupted = no
 }
 AMP36 = {
 	name = "AMP36_name"
 	music = "file:/music/AMP_Verdi-String Quartet I_Steinberg-Pittsburg Symphony.ogg"
-	pause_factor = 25
 	mood = yes
 	can_be_interrupted = no
 }
 AMP37 = {
 	name = "AMP37_name"
 	music = "file:/music/AMP_Verdi-String Quartet II_Steinberg-Pittsburg Symphony.ogg"
-	pause_factor = 25
 	mood = yes
 	can_be_interrupted = no
 }
 AMP38 = {
 	name = "AMP38_name"
 	music = "file:/music/AMP_Verdi-String Quartet IV_Steinberg-Pittsburg Symphony.ogg"
-	pause_factor = 25
 	mood = yes
 	can_be_interrupted = no
 }
 AMP39 = {
 	name = "AMP39_name"
 	music = "file:/music/AMP_Dragonerna komma (Swedish march).ogg"
-	pause_factor = 25
 	mood = yes
 	can_be_interrupted = no
 }
 AMP40 = {
 	name = "AMP40_name"
 	music = "file:/music/AMP_finale first edition.ogg"
-	pause_factor = 25
 	mood = yes
 	can_be_interrupted = no
 }
 AMP41 = {
 	name = "AMP41_name"
 	music = "file:/music/AMP_Für Elise.ogg"
-	pause_factor = 25
 	mood = yes
 	can_be_interrupted = no
 }
 AMP42 = {
 	name = "AMP42_name"
 	music = "file:/music/AMP_March Triumph of Winners Марш Триумф победителей.ogg"
-	pause_factor = 25
 	mood = yes
 	can_be_interrupted = no
 }
 AMP43 = {
 	name = "AMP43_name"
 	music = "file:/music/AMP_Old Russian march Marsch aus Petersburg 1837.ogg"
-	pause_factor = 25
 	mood = yes
 	can_be_interrupted = no
 }
 AMP44 = {
 	name = "AMP44_name"
 	music = "file:/music/AMP_Radetzky March - Marcha Radetzky, opus 228 (Johann Strauss I).ogg"
-	pause_factor = 25
 	mood = yes
 	can_be_interrupted = no
 }
 AMP45 = {
 	name = "AMP45_name"
 	music = "file:/music/AMP_March Grenadier.ogg"
-	pause_factor = 25
 	mood = yes
 	can_be_interrupted = no
 }
 AMP46 = {
 	name = "AMP46_name"
 	music = "file:/music/AMP_Mendelssohn-Violin Concerto in Emin Op64 Allegro_vbr_JaschaHeifetz.ogg"
-	pause_factor = 25
 	mood = yes
 	can_be_interrupted = no
 }
 AMP46 = {
 	name = "AMP46_name"
 	music = "file:/music/AMP_Johann Sebastian Bach - Orchestral Suite No. 3 D-dur (BWV 1068).ogg"
-	pause_factor = 25
 	mood = yes
 	can_be_interrupted = no
 }

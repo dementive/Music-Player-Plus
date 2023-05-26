@@ -1,35 +1,30 @@
 ﻿anno01a = {
 	name = "anno01a_track"
 	music = "file:/music/Anno 1800 Soundtrack - Disc01 - 01 Robber baron suite.ogg"
-	pause_factor = 25
 	mood = yes
 	can_be_interrupted = yes
 }
 anno02a = {
 	name = "anno02a_track"
 	music = "file:/music/Anno 1800 Soundtrack - Disc01 - 02 The moribund people.ogg"
-	pause_factor = 25
 	mood = yes
 	can_be_interrupted = yes
 }
 anno03a = {
 	name = "anno03a_track"
 	music = "file:/music/Anno 1800 Soundtrack - Disc01 - 03 Hush.ogg"
-	pause_factor = 25
 	mood = yes
 	can_be_interrupted = yes
 }
 anno04a = {
 	name = "anno04a_track"
 	music = "file:/music/Anno 1800 Soundtrack - Disc01 - 04 The crown and the lion.ogg"
-	pause_factor = 25
 	mood = yes
 	can_be_interrupted = yes
 }
 anno05a = {
 	name = "anno05a_track"
 	music = "file:/music/Anno 1800 Soundtrack - Disc01 - 05 Electrical engineering.ogg"
-	pause_factor = 25
 	mood = yes
 	can_be_interrupted = yes
 }
@@ -38,35 +33,30 @@ anno05a = {
 anno07a = {
 	name = "anno07a_track"
 	music = "file:/music/Anno 1800 Soundtrack - Disc01 - 07 Old money.ogg"
-	pause_factor = 25
 	mood = yes
 	can_be_interrupted = yes
 }
 anno09a = {
 	name = "anno09a_track"
 	music = "file:/music/Anno 1800 Soundtrack - Disc01 - 09 The second burial.ogg"
-	pause_factor = 25
 	mood = yes
 	can_be_interrupted = yes
 }
 anno10a = {
 	name = "anno10a_track"
 	music = "file:/music/Anno 1800 Soundtrack - Disc01 - 10 Into the unknown.ogg"
-	pause_factor = 25
 	mood = yes
 	can_be_interrupted = yes
 }
 anno12a = {
 	name = "anno12a_track"
 	music = "file:/music/Anno 1800 Soundtrack - Disc01 - 12 At night the forest sings.ogg"
-	pause_factor = 25
 	mood = yes
 	can_be_interrupted = yes
 }
 anno13a = {
 	name = "anno13a_track"
 	music = "file:/music/Anno 1800 Soundtrack - Disc01 - 13 The apparition.ogg"
-	pause_factor = 25
 	mood = yes
 	can_be_interrupted = yes
 }
@@ -75,35 +65,30 @@ anno13a = {
 anno18a = {
 	name = "anno18a_track"
 	music = "file:/music/Anno 1800 Soundtrack - Disc01 - 18 Obsequies.ogg"
-	pause_factor = 25
 	mood = yes
 	can_be_interrupted = yes
 }
 anno19a = {
 	name = "anno19a_track"
 	music = "file:/music/Anno 1800 Soundtrack - Disc01 - 19 A pile of dust.ogg"
-	pause_factor = 25
 	mood = yes
 	can_be_interrupted = yes
 }
 anno22a = {
 	name = "anno22a_track"
 	music = "file:/music/Anno 1800 Soundtrack - Disc01 - 22 Her father's legacy.ogg"
-	pause_factor = 25
 	mood = yes
 	can_be_interrupted = yes
 }
 anno25a = {
 	name = "anno25a_track"
 	music = "file:/music/Anno 1800 Soundtrack - Disc01 - 25 Counting the casualties.ogg"
-	pause_factor = 25
 	mood = yes
 	can_be_interrupted = yes
 }
 anno26a = {
 	name = "anno26a_track"
 	music = "file:/music/Anno 1800 Soundtrack - Disc01 - 26 Industrial accidents.ogg"
-	pause_factor = 25
 	mood = yes
 	can_be_interrupted = yes
 }
@@ -112,35 +97,30 @@ anno26a = {
 anno27a = {
 	name = "anno27a_track"
 	music = "file:/music/Anno 1800 Soundtrack - Disc01 - 27 The machinists.ogg"
-	pause_factor = 25
 	mood = yes
 	can_be_interrupted = yes
 }
 anno28a = {
 	name = "anno28a_track"
 	music = "file:/music/Anno 1800 Soundtrack - Disc01 - 28 Wanderlust.ogg"
-	pause_factor = 25
 	mood = yes
 	can_be_interrupted = yes
 }
 anno29a = {
 	name = "anno29a_track"
 	music = "file:/music/Anno 1800 Soundtrack - Disc01 - 29 Flickering lights.ogg"
-	pause_factor = 25
 	mood = yes
 	can_be_interrupted = yes
 }
 anno30a = {
 	name = "anno30a_track"
 	music = "file:/music/Anno 1800 Soundtrack - Disc01 - 30 Welcome to Brightsands.ogg"
-	pause_factor = 25
 	mood = yes
 	can_be_interrupted = yes
 }
 anno01b = {
 	name = "anno01b_track"
 	music = "file:/music/Anno 1800 Soundtrack - Disc02 - 01 The crystal palace.ogg"
-	pause_factor = 25
 	mood = yes
 	can_be_interrupted = yes
 }
@@ -149,35 +129,30 @@ anno01b = {
 anno02b = {
 	name = "anno02b_track"
 	music = "file:/music/Anno 1800 Soundtrack - Disc02 - 02 Sun-tanned faces.ogg"
-	pause_factor = 25
 	mood = yes
 	can_be_interrupted = yes
 }
 anno03b = {
 	name = "anno03b_track"
 	music = "file:/music/Anno 1800 Soundtrack - Disc02 - 03 In the mists.ogg"
-	pause_factor = 25
 	mood = yes
 	can_be_interrupted = yes
 }
 anno04b = {
 	name = "anno04b_track"
 	music = "file:/music/Anno 1800 Soundtrack - Disc02 - 04 Rumors from the city.ogg"
-	pause_factor = 25
 	mood = yes
 	can_be_interrupted = yes
 }
 anno05b = {
 	name = "anno05b_track"
 	music = "file:/music/Anno 1800 Soundtrack - Disc02 - 05 Across the brownfields.ogg"
-	pause_factor = 25
 	mood = yes
 	can_be_interrupted = yes
 }
 anno07b = {
 	name = "anno07b_track"
 	music = "file:/music/Anno 1800 Soundtrack - Disc02 - 07 Structural analysis.ogg"
-	pause_factor = 25
 	mood = yes
 	can_be_interrupted = yes
 }
@@ -186,35 +161,30 @@ anno07b = {
 anno09b = {
 	name = "anno09b_track"
 	music = "file:/music/Anno 1800 Soundtrack - Disc02 - 09 Have all the money work for you.ogg"
-	pause_factor = 25
 	mood = yes
 	can_be_interrupted = yes
 }
 anno11b = {
 	name = "anno11b_track"
 	music = "file:/music/Anno 1800 Soundtrack - Disc02 - 11 Liberation.ogg"
-	pause_factor = 25
 	mood = yes
 	can_be_interrupted = yes
 }
 anno18b = {
 	name = "anno18b_track"
 	music = "file:/music/Anno 1800 Soundtrack - Disc02 - 18 The weight on her shoulders.ogg"
-	pause_factor = 25
 	mood = yes
 	can_be_interrupted = yes
 }
 anno27b = {
 	name = "anno27b_track"
 	music = "file:/music/Anno 1800 Soundtrack - Disc02 - 27 They said it was an accident.ogg"
-	pause_factor = 25
 	mood = yes
 	can_be_interrupted = yes
 }
 anno30b = {
 	name = "anno30b_track"
 	music = "file:/music/Anno 1800 Soundtrack - Disc02 - 30 In the belly of the beast.ogg"
-	pause_factor = 25
 	mood = yes
 	can_be_interrupted = yes
 }

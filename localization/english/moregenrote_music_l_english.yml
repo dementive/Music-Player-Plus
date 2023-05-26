@@ -1,7 +1,7 @@
 ﻿l_english:
 
 # CATEGORIES - Used in gui visiblity checks
-Morgenroete_Soundtrack_mp_categories:0 "Morgenroete"
+Morgenroete_Soundtrack_mp_categories:0 "Morgenröte - Dawn of Flavor"
 #######################
 #  Morgenroete Names  #
 #######################
@@ -62,6 +62,12 @@ elgar_tr_53:0 "Holst: Mars, the Bringer of War"
 elgar_tr_54:0 "Holst: I Vow to Thee, My Country"
 elgar_tr_55:0 "Elgar: Cello Concerto"
 elgar_tr_56:0 "Respighi: Villanella"
+elgar_tr_57:0 "Fernández: Batuque"
+elgar_tr_58:0 "Rachmaninoff: Rhapsody on a Theme of Paganini"
+elgar_tr_59:0 "Grieg: Piano Concerto"
+elgar_tr_60:0 "Gomes: Alvorada"
+elgar_tr_61:0 "Glazunov: Violin Concerto"
+elgar_tr_62:0 "Gallet: Tango"
 elgar_war_tr_1:0 "Austria at War: Radetzky March"
 elgar_war_tr_2:0 "France at War: Chant du départ"
 elgar_war_tr_3:0 "Great Britain at War: Colonel Bogey March"

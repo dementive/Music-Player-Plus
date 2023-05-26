@@ -5,56 +5,48 @@
 japan01a = {
 	name = "japan01a_name"
 	music = "file:/music/Japan Music Mod - Disc01 - 00 Tokugawa Isolation.mp3"
-	pause_factor = 25
 	mood = yes
 	can_be_interrupted = yes
 }
 japan02a = {
 	name = "japan02a_name"
 	music = "file:/music/Japan Music Mod - Disc01 - 01 Etenraku.mp3"
-	pause_factor = 25
 	mood = yes
 	can_be_interrupted = yes
 }
 japan03a = {
 	name = "japan03a_name"
 	music = "file:/music/Japan Music Mod - Disc01 - 03 Taiko Shuffle.mp3"
-	pause_factor = 25
 	mood = yes
 	can_be_interrupted = yes
 }
 japan04a = {
 	name = "japan04a_name"
 	music = "file:/music/Japan Music Mod - Disc01 - 04 Satsuma.mp3"
-	pause_factor = 25
 	mood = yes
 	can_be_interrupted = yes
 }
 japan05a = {
 	name = "japan05a_name"
 	music = "file:/music/Japan Music Mod - Disc01 - 05 Konpira Fune Fune.mp3"
-	pause_factor = 25
 	mood = yes
 	can_be_interrupted = yes
 }
 japan06a = {
 	name = "japan06a_name"
 	music = "file:/music/Japan Music Mod - Disc01 - 06 Miyakodori.mp3"
-	pause_factor = 25
 	mood = yes
 	can_be_interrupted = yes
 }
 japan07a = {
 	name = "japan07a_name"
 	music = "file:/music/Japan Music Mod - Disc01 - 07 Cherry Blossoms.mp3"
-	pause_factor = 25
 	mood = yes
 	can_be_interrupted = yes
 }
 japan08a = {
 	name = "japan08a_name"
 	music = "file:/music/Japan Music Mod - Disc01 - 08 Sakura.mp3"
-	pause_factor = 25
 	mood = yes
 	can_be_interrupted = yes
 }
@@ -62,14 +54,12 @@ japan08a = {
 japan01b = {
 	name = "japan01b_name"
 	music = "file:/music/Japan Music Mod - Disc02 - 00 The Black Ships Arrives.mp3"
-	pause_factor = 25
 	mood = yes
 	can_be_interrupted = yes
 }
 japan02b = {
 	name = "japan02b_name"
 	music = "file:/music/Japan Music Mod - Disc02 - 01 Katsura Kogoro.mp3"
-	pause_factor = 25
 	mood = yes
 	can_be_interrupted = yes
 }
@@ -77,35 +67,30 @@ japan02b = {
 japan01c = {
 	name = "japan01c_name"
 	music = "file:/music/Japan Music Mod - Disc03 - 00 Boshin War.mp3"
-	pause_factor = 25
 	mood = yes
 	can_be_interrupted = yes
 }
 japan02c = {
 	name = "japan02c_name"
 	music = "file:/music/Japan Music Mod - Disc03 - 01 Miya San Miya San.mp3"
-	pause_factor = 25
 	mood = yes
 	can_be_interrupted = yes
 }
 japan03c = {
 	name = "japan03c_name"
 	music = "file:/music/Japan Music Mod - Disc03 - 02 Saigo Takamori.mp3"
-	pause_factor = 25
 	mood = yes
 	can_be_interrupted = yes
 }
 japan04c = {
 	name = "japan04c_name"
 	music = "file:/music/Japan Music Mod - Disc03 - 03 Nakaoka Shintaro.mp3"
-	pause_factor = 25
 	mood = yes
 	can_be_interrupted = yes
 }
 japan05c = {
 	name = "japan05c_name"
 	music = "file:/music/Japan Music Mod - Disc03 - 05 Miya San Miya San.mp3"
-	pause_factor = 25
 	mood = yes
 	can_be_interrupted = yes
 }
@@ -113,21 +98,18 @@ japan05c = {
 japan01d = {
 	name = "japan01d_name"
 	music = "file:/music/Japan Music Mod - Disc04 - 00 Fall of the Shogunate.mp3"
-	pause_factor = 25
 	mood = yes
 	can_be_interrupted = yes
 }
 japan02d = {
 	name = "japan02d_name"
 	music = "file:/music/Japan Music Mod - Disc04 - 01 Satsuma Samurai.mp3"
-	pause_factor = 25
 	mood = yes
 	can_be_interrupted = yes
 }
 japan03d = {
 	name = "japan03d_name"
 	music = "file:/music/Japan Music Mod - Disc04 - 02 Hijikata Toshizo.mp3"
-	pause_factor = 25
 	mood = yes
 	can_be_interrupted = yes
 }
@@ -135,42 +117,36 @@ japan03d = {
 japan01e = {
 	name = "japan01e_name"
 	music = "file:/music/Japan Music Mod - Disc05 - 00 Meiji Era.mp3"
-	pause_factor = 25
 	mood = yes
 	can_be_interrupted = yes
 }
 japan02e = {
 	name = "japan02e_name"
 	music = "file:/music/Japan Music Mod - Disc05 - 01 Kimigayo March.mp3"
-	pause_factor = 25
 	mood = yes
 	can_be_interrupted = yes
 }
 japan03e = {
 	name = "japan03e_name"
 	music = "file:/music/Japan Music Mod - Disc05 - 02 Warship March.mp3"
-	pause_factor = 25
 	mood = yes
 	can_be_interrupted = yes
 }
 japan04e = {
 	name = "japan04e_name"
 	music = "file:/music/Japan Music Mod - Disc05 - 03 The Brave Sailor.mp3"
-	pause_factor = 25
 	mood = yes
 	can_be_interrupted = yes
 }
 japan05e = {
 	name = "japan05e_name"
 	music = "file:/music/Japan Music Mod - Disc05 - 04 Souvenir of the Yellow Sea Battle.mp3"
-	pause_factor = 25
 	mood = yes
 	can_be_interrupted = yes
 }
 japan06e = {
 	name = "japan06e_name"
 	music = "file:/music/Japan Music Mod - Disc05 - 05 Yuki no Shingun.mp3"
-	pause_factor = 25
 	mood = yes
 	can_be_interrupted = yes
 }
@@ -179,42 +155,36 @@ japan06e = {
 japan01f = {
 	name = "japan01f_name"
 	music = "file:/music/Japan Music Mod - Disc05 - 06 Shikishima March.mp3"
-	pause_factor = 25
 	mood = yes
 	can_be_interrupted = yes
 }
 japan02f = {
 	name = "japan02f_name"
 	music = "file:/music/Japan Music Mod - Disc05 - 07 55 Days at Peking.mp3"
-	pause_factor = 25
 	mood = yes
 	can_be_interrupted = yes
 }
 japan03f = {
 	name = "japan03f_name"
 	music = "file:/music/Japan Music Mod - Disc05 - 08 Comrades in Arms.mp3"
-	pause_factor = 25
 	mood = yes
 	can_be_interrupted = yes
 }
 japan04f = {
 	name = "japan04f_name"
 	music = "file:/music/Japan Music Mod - Disc05 - 09 Battle of Tsushima March.mp3"
-	pause_factor = 25
 	mood = yes
 	can_be_interrupted = yes
 }
 japan05f = {
 	name = "japan05f_name"
 	music = "file:/music/Japan Music Mod - Disc05 - 10 Hohei no Honryo.mp3"
-	pause_factor = 25
 	mood = yes
 	can_be_interrupted = yes
 }
 japan06f = {
 	name = "japan06f_name"
 	music = "file:/music/Japan Music Mod - Disc05 - 12 Teki wa Ikuman.mp3"
-	pause_factor = 25
 	mood = yes
 	can_be_interrupted = yes
 }
@@ -222,7 +192,6 @@ japan06f = {
 japan01g = {
 	name = "japan01g_name"
 	music = "file:/music/Japan Music Mod - Disc05 - 11 Ship Duties.mp3"
-	pause_factor = 25
 	mood = yes
 	can_be_interrupted = yes
 }
@@ -230,28 +199,24 @@ japan01g = {
 japan02g = {
 	name = "japan02g_name"
 	music = "file:/music/Japan Music Mod - Disc07 - 00 Taisho Era.mp3"
-	pause_factor = 25
 	mood = yes
 	can_be_interrupted = yes
 }
 japan03g = {
 	name = "japan03g_name"
 	music = "file:/music/Japan Music Mod - Disc07 - 01 Danchone Bushi.mp3"
-	pause_factor = 25
 	mood = yes
 	can_be_interrupted = yes
 }
 japan04g = {
 	name = "japan04g_name"
 	music = "file:/music/Japan Music Mod - Disc07 - 02 Otoko Nara.mp3"
-	pause_factor = 25
 	mood = yes
 	can_be_interrupted = yes
 }
 japan05g = {
 	name = "japan05g_name"
 	music = "file:/music/Japan Music Mod - Disc08 - 00 Kimigayo.mp3"
-	pause_factor = 25
 	mood = yes
 	can_be_interrupted = yes
 }
